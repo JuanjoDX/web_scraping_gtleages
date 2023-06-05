@@ -1,0 +1,121 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+06/12/2022 23:45,Inter Milan,Nio,SSC Napoli,Ray,1,1,ENDED
+06/12/2022 23:45,Juventus Turin,Nasmi,AC Milan,Cliff,0,2,ENDED
+06/12/2022 23:30,Lazio,Mars,AC Milan,Cliff,2,2,ENDED
+06/12/2022 23:30,Juventus Turin,Nasmi,Inter Milan,Nio,3,2,ENDED
+06/12/2022 23:15,SSC Napoli,Ray,AC Milan,Cliff,4,3,ENDED
+06/12/2022 23:15,Juventus Turin,Nasmi,Lazio,Mars,3,3,ENDED
+06/12/2022 23:00,AC Milan,Cliff,Inter Milan,Nio,2,1,ENDED
+06/12/2022 23:00,SSC Napoli,Ray,Lazio,Mars,4,2,ENDED
+06/12/2022 14:30,FC Porto,Gorilla,Tottenham,Spex,2,0,ENDED
+06/12/2022 14:30,Borussia Dortmund,aibothard,Chelsea,Votepeace,2,1,ENDED
+06/12/2022 14:15,Borussia Dortmund,aibothard,Tottenham,Spex,2,0,ENDED
+06/12/2022 14:15,SSC Napoli,Lio,Chelsea,Votepeace,2,4,ENDED
+06/12/2022 14:00,SSC Napoli,Lio,FC Porto,Gorilla,2,1,ENDED
+06/12/2022 14:00,Tottenham,Spex,Chelsea,Votepeace,5,1,ENDED
+06/12/2022 13:45,SSC Napoli,Lio,Borussia Dortmund,aibothard,4,2,ENDED
+06/12/2022 13:45,FC Porto,Gorilla,Chelsea,Votepeace,6,3,ENDED
+06/12/2022 13:30,Tottenham,Spex,SSC Napoli,Lio,5,2,ENDED
+06/12/2022 13:30,FC Porto,Gorilla,Borussia Dortmund,aibothard,2,0,ENDED
+06/12/2022 13:15,Tottenham,Spex,FC Porto,Gorilla,2,1,ENDED
+06/12/2022 13:15,Chelsea,Votepeace,Borussia Dortmund,aibothard,3,1,ENDED
+06/12/2022 13:00,Tottenham,Spex,Borussia Dortmund,aibothard,3,2,ENDED
+06/12/2022 13:00,Chelsea,Votepeace,SSC Napoli,Lio,4,4,ENDED
+06/12/2022 12:45,FC Porto,Gorilla,SSC Napoli,Lio,0,3,ENDED
+06/12/2022 12:45,Chelsea,Votepeace,Tottenham,Spex,3,5,ENDED
+06/12/2022 12:30,Borussia Dortmund,aibothard,SSC Napoli,Lio,1,3,ENDED
+06/12/2022 12:30,Chelsea,Votepeace,FC Porto,Gorilla,2,1,ENDED
+06/12/2022 12:15,SSC Napoli,Lio,Tottenham,Spex,1,4,ENDED
+06/12/2022 12:15,Borussia Dortmund,aibothard,FC Porto,Gorilla,4,1,ENDED
+06/12/2022 12:00,Athletic Bilbao,Gorilla,Atletico Madrid,Spex,2,4,ENDED
+06/12/2022 12:00,Real Madrid,aibothard,Real Sociedad,Votepeace,0,0,ENDED
+06/12/2022 11:45,Real Madrid,aibothard,Atletico Madrid,Spex,3,4,ENDED
+06/12/2022 11:45,FC Barcelona,Lio,Real Sociedad,Votepeace,4,1,ENDED
+06/12/2022 11:30,FC Barcelona,Lio,Athletic Bilbao,Gorilla,0,4,ENDED
+06/12/2022 11:30,Atletico Madrid,Spex,Real Sociedad,Votepeace,3,2,ENDED
+06/12/2022 11:15,FC Barcelona,Lio,Real Madrid,aibothard,2,3,ENDED
+06/12/2022 11:15,Athletic Bilbao,Gorilla,Real Sociedad,Votepeace,1,0,ENDED
+06/12/2022 10:30,Atletico Madrid,Spex,FC Barcelona,Lio,2,4,ENDED
+06/12/2022 10:30,Athletic Bilbao,Gorilla,Real Madrid,aibothard,1,1,ENDED
+06/12/2022 10:15,Atletico Madrid,Spex,Athletic Bilbao,Gorilla,5,3,ENDED
+06/12/2022 10:15,Real Sociedad,Votepeace,Real Madrid,aibothard,2,2,ENDED
+06/12/2022 10:00,Atletico Madrid,Spex,Real Madrid,aibothard,2,1,ENDED
+06/12/2022 10:00,Real Sociedad,Votepeace,FC Barcelona,Lio,4,4,ENDED
+06/12/2022 09:45,Athletic Bilbao,Gorilla,FC Barcelona,Lio,0,1,ENDED
+06/12/2022 09:45,Real Sociedad,Votepeace,Atletico Madrid,Spex,1,4,ENDED
+06/12/2022 09:30,Real Madrid,aibothard,FC Barcelona,Lio,2,1,ENDED
+06/12/2022 09:30,Real Sociedad,Votepeace,Athletic Bilbao,Gorilla,2,3,ENDED
+06/12/2022 09:15,FC Barcelona,Lio,Atletico Madrid,Spex,1,4,ENDED
+06/12/2022 09:15,Real Madrid,aibothard,Athletic Bilbao,Gorilla,0,3,ENDED
+06/12/2022 09:00,Leverkusen,Gorilla,Sevilla,Spex,5,3,ENDED
+06/12/2022 09:00,Fenerbahce Istanbul,aibothard,Roma,Votepeace,0,2,ENDED
+06/12/2022 08:45,Fenerbahce Istanbul,aibothard,Sevilla,Spex,2,4,ENDED
+06/12/2022 08:45,Arsenal,Lio,Roma,Votepeace,1,3,ENDED
+06/12/2022 08:30,Arsenal,Lio,Leverkusen,Gorilla,3,2,ENDED
+06/12/2022 08:30,Sevilla,Spex,Roma,Votepeace,3,3,ENDED
+06/12/2022 08:15,Arsenal,Lio,Fenerbahce Istanbul,aibothard,3,1,ENDED
+06/12/2022 08:15,Leverkusen,Gorilla,Roma,Votepeace,4,3,ENDED
+06/12/2022 08:00,Sevilla,Spex,Arsenal,Lio,2,2,ENDED
+06/12/2022 08:00,Leverkusen,Gorilla,Fenerbahce Istanbul,aibothard,1,3,ENDED
+06/12/2022 07:45,Sevilla,Spex,Leverkusen,Gorilla,4,3,ENDED
+06/12/2022 07:45,Roma,Votepeace,Fenerbahce Istanbul,aibothard,2,2,ENDED
+06/12/2022 07:30,Sevilla,Spex,Fenerbahce Istanbul,aibothard,2,0,ENDED
+06/12/2022 07:30,Roma,Votepeace,Arsenal,Lio,4,4,ENDED
+06/12/2022 07:15,Leverkusen,Gorilla,Arsenal,Lio,3,2,ENDED
+06/12/2022 07:15,Roma,Votepeace,Sevilla,Spex,2,3,ENDED
+06/12/2022 07:00,Fenerbahce Istanbul,aibothard,Arsenal,Lio,1,3,ENDED
+06/12/2022 07:00,Roma,Votepeace,Leverkusen,Gorilla,3,4,ENDED
+06/12/2022 06:45,Arsenal,Lio,Sevilla,Spex,2,1,ENDED
+06/12/2022 06:45,Fenerbahce Istanbul,aibothard,Leverkusen,Gorilla,3,4,ENDED
+06/12/2022 06:15,Bayern München,Cliff,Real Madrid,Nasmi,2,3,ENDED
+06/12/2022 06:15,Liverpool,Moic,Manchester City,Ray,4,4,ENDED
+06/12/2022 06:00,Liverpool,Moic,Real Madrid,Nasmi,4,1,ENDED
+06/12/2022 06:00,PSG,Nazario,Manchester City,Ray,3,3,ENDED
+06/12/2022 05:45,PSG,Nazario,Bayern München,Cliff,3,3,ENDED
+06/12/2022 05:45,Real Madrid,Nasmi,Manchester City,Ray,1,3,ENDED
+06/12/2022 05:30,PSG,Nazario,Liverpool,Moic,5,2,ENDED
+06/12/2022 05:30,Bayern München,Cliff,Manchester City,Ray,2,1,ENDED
+06/12/2022 05:15,Real Madrid,Nasmi,PSG,Nazario,3,5,ENDED
+06/12/2022 05:15,Bayern München,Cliff,Liverpool,Moic,0,4,ENDED
+06/12/2022 05:00,Real Madrid,Nasmi,Bayern München,Cliff,1,0,ENDED
+06/12/2022 05:00,Manchester City,Ray,Liverpool,Moic,3,3,ENDED
+06/12/2022 04:45,Real Madrid,Nasmi,Liverpool,Moic,2,2,ENDED
+06/12/2022 04:45,Manchester City,Ray,PSG,Nazario,3,1,ENDED
+06/12/2022 04:30,Bayern München,Cliff,PSG,Nazario,5,1,ENDED
+06/12/2022 04:30,Manchester City,Ray,Real Madrid,Nasmi,2,1,ENDED
+06/12/2022 04:15,Liverpool,Moic,PSG,Nazario,6,6,ENDED
+06/12/2022 04:15,Manchester City,Ray,Bayern München,Cliff,3,2,ENDED
+06/12/2022 04:00,PSG,Nazario,Real Madrid,Nasmi,4,5,ENDED
+06/12/2022 04:00,Liverpool,Moic,Bayern München,Cliff,3,2,ENDED
+06/12/2022 03:45,Tottenham,Cliff,Manchester United,Nasmi,1,2,ENDED
+06/12/2022 03:45,Arsenal,Moic,Newcastle Utd,Ray,0,2,ENDED
+06/12/2022 03:30,Arsenal,Moic,Manchester United,Nasmi,1,3,ENDED
+06/12/2022 03:30,Manchester City,Nazario,Newcastle Utd,Ray,4,3,ENDED
+06/12/2022 03:15,Manchester City,Nazario,Tottenham,Cliff,3,6,ENDED
+06/12/2022 03:15,Manchester United,Nasmi,Newcastle Utd,Ray,3,1,ENDED
+06/12/2022 03:00,Manchester City,Nazario,Arsenal,Moic,5,5,ENDED
+06/12/2022 03:00,Tottenham,Cliff,Newcastle Utd,Ray,2,2,ENDED
+06/12/2022 02:45,Manchester United,Nasmi,Manchester City,Nazario,2,3,ENDED
+06/12/2022 02:45,Tottenham,Cliff,Arsenal,Moic,0,1,ENDED
+06/12/2022 02:30,Manchester United,Nasmi,Tottenham,Cliff,0,3,ENDED
+06/12/2022 02:30,Newcastle Utd,Ray,Arsenal,Moic,0,2,ENDED
+06/12/2022 02:15,Manchester United,Nasmi,Arsenal,Moic,1,2,ENDED
+06/12/2022 02:15,Newcastle Utd,Ray,Manchester City,Nazario,3,2,ENDED
+06/12/2022 02:00,Tottenham,Cliff,Manchester City,Nazario,2,1,ENDED
+06/12/2022 02:00,Newcastle Utd,Ray,Manchester United,Nasmi,4,3,ENDED
+06/12/2022 01:45,Arsenal,Moic,Manchester City,Nazario,3,1,ENDED
+06/12/2022 01:45,Newcastle Utd,Ray,Tottenham,Cliff,0,0,ENDED
+06/12/2022 01:30,Manchester City,Nazario,Manchester United,Nasmi,4,3,ENDED
+06/12/2022 01:30,Arsenal,Moic,Tottenham,Cliff,1,0,ENDED
+06/12/2022 01:15,Trabzonspor,Cliff,OGC Nice,Nasmi,2,0,ENDED
+06/12/2022 01:15,West Ham,Moic,Fiorentina,Ray,1,1,ENDED
+06/12/2022 01:00,West Ham,Moic,OGC Nice,Nasmi,3,1,ENDED
+06/12/2022 01:00,Villarreal,Nazario,Fiorentina,Ray,3,2,ENDED
+06/12/2022 00:45,Villarreal,Nazario,Trabzonspor,Cliff,3,3,ENDED
+06/12/2022 00:45,OGC Nice,Nasmi,Fiorentina,Ray,0,1,ENDED
+06/12/2022 00:30,Villarreal,Nazario,West Ham,Moic,3,4,ENDED
+06/12/2022 00:30,Trabzonspor,Cliff,Fiorentina,Ray,1,4,ENDED
+06/12/2022 00:15,OGC Nice,Nasmi,Villarreal,Nazario,3,1,ENDED
+06/12/2022 00:15,Trabzonspor,Cliff,West Ham,Moic,1,4,ENDED
+06/12/2022 00:00,OGC Nice,Nasmi,Trabzonspor,Cliff,0,2,ENDED
+06/12/2022 00:00,Fiorentina,Ray,West Ham,Moic,1,1,ENDED

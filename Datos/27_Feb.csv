@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+27/02/2023 23:45,SSC Napoli,aibothard,Chelsea,General,3,1,ENDED
+27/02/2023 23:45,Tottenham,Danny,FC Porto,Gorilla,4,2,ENDED
+27/02/2023 23:30,Borussia Dortmund,Tyson,FC Porto,Gorilla,5,2,ENDED
+27/02/2023 23:30,Tottenham,Danny,SSC Napoli,aibothard,3,1,ENDED
+27/02/2023 23:15,Chelsea,General,FC Porto,Gorilla,3,3,ENDED
+27/02/2023 23:15,Tottenham,Danny,Borussia Dortmund,Tyson,2,2,ENDED
+27/02/2023 23:00,FC Porto,Gorilla,SSC Napoli,aibothard,1,3,ENDED
+27/02/2023 23:00,Chelsea,General,Borussia Dortmund,Tyson,3,3,ENDED
+27/02/2023 22:30,OGC Nice,Nero,West Ham,Nasmi,6,1,ENDED
+27/02/2023 22:30,Villarreal,Nio,Trabzonspor,Ray,2,2,ENDED
+27/02/2023 22:15,Villarreal,Nio,West Ham,Nasmi,2,2,ENDED
+27/02/2023 22:15,Fiorentina,Mad,Trabzonspor,Ray,3,2,ENDED
+27/02/2023 22:00,Fiorentina,Mad,OGC Nice,Nero,4,7,ENDED
+27/02/2023 22:00,West Ham,Nasmi,Trabzonspor,Ray,2,2,ENDED
+27/02/2023 21:45,Fiorentina,Mad,Villarreal,Nio,6,5,ENDED
+27/02/2023 21:45,OGC Nice,Nero,Trabzonspor,Ray,6,3,ENDED
+27/02/2023 21:30,West Ham,Nasmi,Fiorentina,Mad,2,5,ENDED
+27/02/2023 21:30,OGC Nice,Nero,Villarreal,Nio,2,3,ENDED
+27/02/2023 21:15,West Ham,Nasmi,OGC Nice,Nero,2,3,ENDED
+27/02/2023 21:15,Trabzonspor,Ray,Villarreal,Nio,2,1,ENDED
+27/02/2023 21:00,West Ham,Nasmi,Villarreal,Nio,1,4,ENDED
+27/02/2023 21:00,Trabzonspor,Ray,Fiorentina,Mad,2,4,ENDED
+27/02/2023 20:45,OGC Nice,Nero,Fiorentina,Mad,3,3,ENDED
+27/02/2023 20:45,Trabzonspor,Ray,West Ham,Nasmi,1,2,ENDED
+27/02/2023 20:30,Villarreal,Nio,Fiorentina,Mad,2,2,ENDED
+27/02/2023 20:30,Trabzonspor,Ray,OGC Nice,Nero,1,2,ENDED
+27/02/2023 20:15,Fiorentina,Mad,West Ham,Nasmi,3,4,ENDED
+27/02/2023 20:15,Villarreal,Nio,OGC Nice,Nero,2,3,ENDED
+27/02/2023 20:00,Besiktas,Nero,Istanbul Basaksehir,Nasmi,7,4,ENDED
+27/02/2023 20:00,Fenerbahce Istanbul,Nio,Trabzonspor,Ray,1,1,ENDED
+27/02/2023 19:45,Fenerbahce Istanbul,Nio,Istanbul Basaksehir,Nasmi,3,0,ENDED
+27/02/2023 19:45,Galatasaray,Mad,Trabzonspor,Ray,5,1,ENDED
+27/02/2023 19:30,Galatasaray,Mad,Besiktas,Nero,4,5,ENDED
+27/02/2023 19:30,Istanbul Basaksehir,Nasmi,Trabzonspor,Ray,2,2,ENDED
+27/02/2023 19:15,Galatasaray,Mad,Fenerbahce Istanbul,Nio,2,2,ENDED
+27/02/2023 19:15,Besiktas,Nero,Trabzonspor,Ray,4,1,ENDED
+27/02/2023 19:00,Istanbul Basaksehir,Nasmi,Galatasaray,Mad,0,5,ENDED
+27/02/2023 19:00,Besiktas,Nero,Fenerbahce Istanbul,Nio,3,4,ENDED
+27/02/2023 18:30,Istanbul Basaksehir,Nasmi,Besiktas,Nero,0,3,ENDED
+27/02/2023 18:30,Trabzonspor,Ray,Fenerbahce Istanbul,Nio,0,4,ENDED
+27/02/2023 18:15,Istanbul Basaksehir,Nasmi,Fenerbahce Istanbul,Nio,2,3,ENDED
+27/02/2023 18:15,Trabzonspor,Ray,Galatasaray,Mad,0,3,ENDED
+27/02/2023 18:00,Besiktas,Nero,Galatasaray,Mad,3,2,ENDED
+27/02/2023 18:00,Trabzonspor,Ray,Istanbul Basaksehir,Nasmi,4,3,ENDED
+27/02/2023 17:45,Fenerbahce Istanbul,Nio,Galatasaray,Mad,3,2,ENDED
+27/02/2023 17:45,Trabzonspor,Ray,Besiktas,Nero,3,4,ENDED
+27/02/2023 17:30,Galatasaray,Mad,Istanbul Basaksehir,Nasmi,5,0,ENDED
+27/02/2023 17:30,Fenerbahce Istanbul,Nio,Besiktas,Nero,5,3,ENDED
+27/02/2023 17:15,Real Madrid,Nero,Liverpool,Nasmi,3,2,ENDED
+27/02/2023 17:15,PSG,Nio,Bayern München,Ray,3,3,ENDED
+27/02/2023 17:00,PSG,Nio,Liverpool,Nasmi,4,1,ENDED
+27/02/2023 17:00,Manchester City,Mad,Bayern München,Ray,5,2,ENDED
+27/02/2023 16:45,Manchester City,Mad,Real Madrid,Nero,1,3,ENDED
+27/02/2023 16:45,Liverpool,Nasmi,Bayern München,Ray,0,2,ENDED
+27/02/2023 16:30,Manchester City,Mad,PSG,Nio,3,0,ENDED
+27/02/2023 16:30,Real Madrid,Nero,Bayern München,Ray,3,0,ENDED
+27/02/2023 16:15,Liverpool,Nasmi,Manchester City,Mad,3,4,ENDED
+27/02/2023 16:15,Real Madrid,Nero,PSG,Nio,2,2,ENDED
+27/02/2023 16:00,Liverpool,Nasmi,Real Madrid,Nero,1,6,ENDED
+27/02/2023 16:00,Bayern München,Ray,PSG,Nio,1,2,ENDED
+27/02/2023 15:45,Liverpool,Nasmi,PSG,Nio,0,3,ENDED
+27/02/2023 15:45,Bayern München,Ray,Manchester City,Mad,3,2,ENDED
+27/02/2023 15:30,Real Madrid,Nero,Manchester City,Mad,1,2,ENDED
+27/02/2023 15:30,Bayern München,Ray,Liverpool,Nasmi,1,1,ENDED
+27/02/2023 15:15,PSG,Nio,Manchester City,Mad,4,2,ENDED
+27/02/2023 15:15,Bayern München,Ray,Real Madrid,Nero,3,5,ENDED
+27/02/2023 15:00,Manchester City,Mad,Liverpool,Nasmi,2,2,ENDED
+27/02/2023 15:00,PSG,Nio,Real Madrid,Nero,1,4,ENDED
+27/02/2023 14:30,Arsenal,Krouks,Manchester City,Votepeace,3,3,ENDED
+27/02/2023 14:30,Newcastle Utd,Mars,Manchester United,JohnyBeGood,3,4,ENDED
+27/02/2023 14:15,Newcastle Utd,Mars,Manchester City,Votepeace,1,4,ENDED
+27/02/2023 14:15,Tottenham,Moic,Manchester United,JohnyBeGood,1,3,ENDED
+27/02/2023 14:00,Tottenham,Moic,Arsenal,Krouks,2,4,ENDED
+27/02/2023 14:00,Manchester City,Votepeace,Manchester United,JohnyBeGood,5,5,ENDED
+27/02/2023 13:45,Tottenham,Moic,Newcastle Utd,Mars,1,3,ENDED
+27/02/2023 13:45,Arsenal,Krouks,Manchester United,JohnyBeGood,4,5,ENDED
+27/02/2023 13:30,Manchester City,Votepeace,Tottenham,Moic,2,2,ENDED
+27/02/2023 13:30,Arsenal,Krouks,Newcastle Utd,Mars,3,2,ENDED
+27/02/2023 13:15,Manchester City,Votepeace,Arsenal,Krouks,9,5,ENDED
+27/02/2023 13:15,Manchester United,JohnyBeGood,Newcastle Utd,Mars,3,2,ENDED
+27/02/2023 13:00,Manchester City,Votepeace,Newcastle Utd,Mars,4,2,ENDED
+27/02/2023 13:00,Manchester United,JohnyBeGood,Tottenham,Moic,2,3,ENDED
+27/02/2023 12:45,Arsenal,Krouks,Tottenham,Moic,6,2,ENDED
+27/02/2023 12:45,Manchester United,JohnyBeGood,Manchester City,Votepeace,2,0,ENDED
+27/02/2023 12:30,Newcastle Utd,Mars,Tottenham,Moic,1,1,ENDED
+27/02/2023 12:30,Manchester United,JohnyBeGood,Arsenal,Krouks,6,2,ENDED
+27/02/2023 12:15,Tottenham,Moic,Manchester City,Votepeace,1,2,ENDED
+27/02/2023 12:15,Newcastle Utd,Mars,Arsenal,Krouks,3,2,ENDED
+27/02/2023 12:00,Sporting C.P,Krouks,Sevilla,Votepeace,1,4,ENDED
+27/02/2023 12:00,Fenerbahce Istanbul,Mars,Roma,JohnyBeGood,1,2,ENDED
+27/02/2023 11:45,Fenerbahce Istanbul,Mars,Sevilla,Votepeace,2,3,ENDED
+27/02/2023 11:45,Arsenal,Moic,Roma,JohnyBeGood,2,5,ENDED
+27/02/2023 11:30,Arsenal,Moic,Sporting C.P,Krouks,1,6,ENDED
+27/02/2023 11:30,Sevilla,Votepeace,Roma,JohnyBeGood,3,3,ENDED
+27/02/2023 11:15,Arsenal,Moic,Fenerbahce Istanbul,Mars,4,2,ENDED
+27/02/2023 11:15,Sporting C.P,Krouks,Roma,JohnyBeGood,4,4,ENDED
+27/02/2023 11:00,Sevilla,Votepeace,Arsenal,Moic,1,2,ENDED
+27/02/2023 11:00,Sporting C.P,Krouks,Fenerbahce Istanbul,Mars,4,4,ENDED
+27/02/2023 10:30,Sevilla,Votepeace,Sporting C.P,Krouks,3,5,ENDED
+27/02/2023 10:30,Roma,JohnyBeGood,Fenerbahce Istanbul,Mars,3,0,ENDED
+27/02/2023 10:15,Sevilla,Votepeace,Fenerbahce Istanbul,Mars,3,1,ENDED
+27/02/2023 10:15,Roma,JohnyBeGood,Arsenal,Moic,5,1,ENDED
+27/02/2023 10:00,Sporting C.P,Krouks,Arsenal,Moic,4,3,ENDED
+27/02/2023 10:00,Roma,JohnyBeGood,Sevilla,Votepeace,3,3,ENDED
+27/02/2023 09:45,Fenerbahce Istanbul,Mars,Arsenal,Moic,3,3,ENDED
+27/02/2023 09:45,Roma,JohnyBeGood,Sporting C.P,Krouks,6,2,ENDED
+27/02/2023 09:30,Arsenal,Moic,Sevilla,Votepeace,2,1,ENDED
+27/02/2023 09:30,Fenerbahce Istanbul,Mars,Sporting C.P,Krouks,3,5,ENDED
+27/02/2023 09:15,Borussia Dortmund,Krouks,SSC Napoli,Votepeace,6,4,ENDED
+27/02/2023 09:15,Chelsea,Mars,Tottenham,JohnyBeGood,3,2,ENDED
+27/02/2023 09:00,Chelsea,Mars,SSC Napoli,Votepeace,3,2,ENDED
+27/02/2023 09:00,FC Porto,Moic,Tottenham,JohnyBeGood,2,1,ENDED
+27/02/2023 08:45,FC Porto,Moic,Borussia Dortmund,Krouks,4,4,ENDED
+27/02/2023 08:45,SSC Napoli,Votepeace,Tottenham,JohnyBeGood,2,5,ENDED
+27/02/2023 08:30,FC Porto,Moic,Chelsea,Mars,4,3,ENDED
+27/02/2023 08:30,Borussia Dortmund,Krouks,Tottenham,JohnyBeGood,3,1,ENDED
+27/02/2023 08:15,SSC Napoli,Votepeace,FC Porto,Moic,3,4,ENDED
+27/02/2023 08:15,Borussia Dortmund,Krouks,Chelsea,Mars,4,5,ENDED
+27/02/2023 08:00,SSC Napoli,Votepeace,Borussia Dortmund,Krouks,3,6,ENDED
+27/02/2023 08:00,Tottenham,JohnyBeGood,Chelsea,Mars,1,3,ENDED
+27/02/2023 07:45,SSC Napoli,Votepeace,Chelsea,Mars,3,1,ENDED
+27/02/2023 07:45,Tottenham,JohnyBeGood,FC Porto,Moic,2,0,ENDED
+27/02/2023 07:30,Borussia Dortmund,Krouks,FC Porto,Moic,5,2,ENDED
+27/02/2023 07:30,Tottenham,JohnyBeGood,SSC Napoli,Votepeace,5,2,ENDED
+27/02/2023 07:15,Chelsea,Mars,FC Porto,Moic,1,1,ENDED
+27/02/2023 07:15,Tottenham,JohnyBeGood,Borussia Dortmund,Krouks,2,3,ENDED
+27/02/2023 07:00,FC Porto,Moic,SSC Napoli,Votepeace,3,2,ENDED
+27/02/2023 07:00,Chelsea,Mars,Borussia Dortmund,Krouks,3,5,ENDED
+27/02/2023 06:30,Manchester United,Tyson,Ajax Amsterdam,aibothard,3,1,ENDED
+27/02/2023 06:30,S.C Freiburg,General,Juventus Turin,Danny,3,2,ENDED
+27/02/2023 06:15,S.C Freiburg,General,Ajax Amsterdam,aibothard,1,1,ENDED
+27/02/2023 06:15,FC Barcelona,Gorilla,Juventus Turin,Danny,2,1,ENDED
+27/02/2023 06:00,FC Barcelona,Gorilla,Manchester United,Tyson,4,2,ENDED
+27/02/2023 06:00,Ajax Amsterdam,aibothard,Juventus Turin,Danny,2,2,ENDED
+27/02/2023 05:45,FC Barcelona,Gorilla,S.C Freiburg,General,3,4,ENDED
+27/02/2023 05:45,Manchester United,Tyson,Juventus Turin,Danny,1,1,ENDED
+27/02/2023 05:30,Ajax Amsterdam,aibothard,FC Barcelona,Gorilla,2,3,ENDED
+27/02/2023 05:30,Manchester United,Tyson,S.C Freiburg,General,4,2,ENDED
+27/02/2023 05:15,Ajax Amsterdam,aibothard,Manchester United,Tyson,1,3,ENDED
+27/02/2023 05:15,Juventus Turin,Danny,S.C Freiburg,General,1,3,ENDED
+27/02/2023 05:00,Ajax Amsterdam,aibothard,S.C Freiburg,General,1,2,ENDED
+27/02/2023 05:00,Juventus Turin,Danny,FC Barcelona,Gorilla,2,4,ENDED
+27/02/2023 04:45,Manchester United,Tyson,FC Barcelona,Gorilla,4,1,ENDED
+27/02/2023 04:45,Juventus Turin,Danny,Ajax Amsterdam,aibothard,4,1,ENDED
+27/02/2023 04:30,S.C Freiburg,General,FC Barcelona,Gorilla,5,4,ENDED
+27/02/2023 04:30,Juventus Turin,Danny,Manchester United,Tyson,2,4,ENDED
+27/02/2023 04:15,FC Barcelona,Gorilla,Ajax Amsterdam,aibothard,3,3,ENDED
+27/02/2023 04:15,S.C Freiburg,General,Manchester United,Tyson,0,5,ENDED
+27/02/2023 04:00,Lazio,Tyson,Inter Milan,aibothard,1,3,ENDED
+27/02/2023 04:00,SSC Napoli,General,AC Milan,Danny,4,2,ENDED
+27/02/2023 03:45,SSC Napoli,General,Inter Milan,aibothard,4,2,ENDED
+27/02/2023 03:45,Roma,Gorilla,AC Milan,Danny,3,2,ENDED
+27/02/2023 03:30,Roma,Gorilla,Lazio,Tyson,3,2,ENDED
+27/02/2023 03:30,Inter Milan,aibothard,AC Milan,Danny,1,4,ENDED
+27/02/2023 03:15,Roma,Gorilla,SSC Napoli,General,3,3,ENDED
+27/02/2023 03:15,Lazio,Tyson,AC Milan,Danny,4,1,ENDED
+27/02/2023 03:00,Inter Milan,aibothard,Roma,Gorilla,5,1,ENDED
+27/02/2023 03:00,Lazio,Tyson,SSC Napoli,General,4,2,ENDED
+27/02/2023 02:30,Inter Milan,aibothard,Lazio,Tyson,1,2,ENDED
+27/02/2023 02:30,AC Milan,Danny,SSC Napoli,General,3,4,ENDED
+27/02/2023 02:15,Inter Milan,aibothard,SSC Napoli,General,3,2,ENDED
+27/02/2023 02:15,AC Milan,Danny,Roma,Gorilla,1,3,ENDED
+27/02/2023 02:00,Lazio,Tyson,Roma,Gorilla,3,1,ENDED
+27/02/2023 02:00,AC Milan,Danny,Inter Milan,aibothard,4,3,ENDED
+27/02/2023 01:45,SSC Napoli,General,Roma,Gorilla,3,3,ENDED
+27/02/2023 01:45,AC Milan,Danny,Lazio,Tyson,3,3,ENDED
+27/02/2023 01:30,Roma,Gorilla,Inter Milan,aibothard,3,2,ENDED
+27/02/2023 01:30,SSC Napoli,General,Lazio,Tyson,0,0,ENDED
+27/02/2023 01:15,Borussia Dortmund,Tyson,SSC Napoli,aibothard,2,2,ENDED
+27/02/2023 01:15,Chelsea,General,Tottenham,Danny,2,1,ENDED
+27/02/2023 01:00,Chelsea,General,SSC Napoli,aibothard,2,1,ENDED
+27/02/2023 01:00,FC Porto,Gorilla,Tottenham,Danny,2,1,ENDED
+27/02/2023 00:45,FC Porto,Gorilla,Borussia Dortmund,Tyson,3,1,ENDED
+27/02/2023 00:45,SSC Napoli,aibothard,Tottenham,Danny,7,3,ENDED
+27/02/2023 00:30,FC Porto,Gorilla,Chelsea,General,0,2,ENDED
+27/02/2023 00:30,Borussia Dortmund,Tyson,Tottenham,Danny,5,1,ENDED
+27/02/2023 00:15,SSC Napoli,aibothard,FC Porto,Gorilla,1,5,ENDED
+27/02/2023 00:15,Borussia Dortmund,Tyson,Chelsea,General,3,3,ENDED
+27/02/2023 00:00,SSC Napoli,aibothard,Borussia Dortmund,Tyson,4,1,ENDED
+27/02/2023 00:00,Tottenham,Danny,Chelsea,General,0,2,ENDED

@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+04/04/2023 23:45,Benfica Lisbon,Cantona,SSC Napoli,Magdy,2,1,ENDED
+04/04/2023 23:45,Real Madrid,Nasmi,Bayern München,Seagal,1,2,ENDED
+04/04/2023 23:30,Benfica Lisbon,Cantona,Manchester City,Rocky,4,0,ENDED
+04/04/2023 23:30,SSC Napoli,Magdy,Bayern München,Seagal,4,5,ENDED
+04/04/2023 23:15,Real Madrid,Nasmi,Benfica Lisbon,Cantona,2,5,ENDED
+04/04/2023 23:15,SSC Napoli,Magdy,Manchester City,Rocky,6,0,ENDED
+04/04/2023 23:00,Real Madrid,Nasmi,SSC Napoli,Magdy,3,3,ENDED
+04/04/2023 23:00,Bayern München,Seagal,Manchester City,Rocky,2,0,ENDED
+04/04/2023 22:45,Real Madrid,Nasmi,Manchester City,Rocky,3,2,ENDED
+04/04/2023 22:45,Bayern München,Seagal,Benfica Lisbon,Cantona,0,5,ENDED
+04/04/2023 22:30,SSC Napoli,Magdy,Benfica Lisbon,Cantona,2,1,ENDED
+04/04/2023 22:30,Bayern München,Seagal,Real Madrid,Nasmi,0,1,ENDED
+04/04/2023 22:15,Manchester City,Rocky,Benfica Lisbon,Cantona,0,3,ENDED
+04/04/2023 22:15,Bayern München,Seagal,SSC Napoli,Magdy,3,1,ENDED
+04/04/2023 22:00,Benfica Lisbon,Cantona,Real Madrid,Nasmi,5,1,ENDED
+04/04/2023 22:00,Manchester City,Rocky,SSC Napoli,Magdy,2,1,ENDED
+04/04/2023 21:30,Leipzig,tommy,Borussia Dortmund,val,3,4,ENDED
+04/04/2023 21:30,Union Berlin,Rafa,S.C Freiburg,Lio,3,5,ENDED
+04/04/2023 21:15,Union Berlin,Rafa,Borussia Dortmund,val,2,2,ENDED
+04/04/2023 21:15,Bayern München,Carnage,S.C Freiburg,Lio,0,0,ENDED
+04/04/2023 21:00,Bayern München,Carnage,Leipzig,tommy,1,2,ENDED
+04/04/2023 21:00,Borussia Dortmund,val,S.C Freiburg,Lio,2,2,ENDED
+04/04/2023 20:45,Bayern München,Carnage,Union Berlin,Rafa,1,2,ENDED
+04/04/2023 20:45,Leipzig,tommy,S.C Freiburg,Lio,1,4,ENDED
+04/04/2023 20:30,Borussia Dortmund,val,Bayern München,Carnage,1,3,ENDED
+04/04/2023 20:30,Leipzig,tommy,Union Berlin,Rafa,4,5,ENDED
+04/04/2023 20:15,Borussia Dortmund,val,Leipzig,tommy,3,5,ENDED
+04/04/2023 20:15,S.C Freiburg,Lio,Union Berlin,Rafa,3,0,ENDED
+04/04/2023 20:00,Borussia Dortmund,val,Union Berlin,Rafa,2,6,ENDED
+04/04/2023 20:00,S.C Freiburg,Lio,Bayern München,Carnage,1,2,ENDED
+04/04/2023 19:45,Leipzig,tommy,Bayern München,Carnage,3,3,ENDED
+04/04/2023 19:45,S.C Freiburg,Lio,Borussia Dortmund,val,2,1,ENDED
+04/04/2023 19:30,Union Berlin,Rafa,Bayern München,Carnage,1,2,ENDED
+04/04/2023 19:30,S.C Freiburg,Lio,Leipzig,tommy,2,1,ENDED
+04/04/2023 19:15,Bayern München,Carnage,Borussia Dortmund,val,0,2,ENDED
+04/04/2023 19:15,Union Berlin,Rafa,Leipzig,tommy,3,4,ENDED
+04/04/2023 19:00,Sporting C.P,tommy,Feyenord Rotterdam,val,3,3,ENDED
+04/04/2023 19:00,Juventus Turin,Rafa,Fenerbahce Istanbul,Lio,2,2,ENDED
+04/04/2023 18:45,Juventus Turin,Rafa,Feyenord Rotterdam,val,1,2,ENDED
+04/04/2023 18:45,Manchester United,Carnage,Fenerbahce Istanbul,Lio,3,4,ENDED
+04/04/2023 18:30,Manchester United,Carnage,Sporting C.P,tommy,3,1,ENDED
+04/04/2023 18:30,Feyenord Rotterdam,val,Fenerbahce Istanbul,Lio,0,4,ENDED
+04/04/2023 18:15,Manchester United,Carnage,Juventus Turin,Rafa,3,1,ENDED
+04/04/2023 18:15,Sporting C.P,tommy,Fenerbahce Istanbul,Lio,0,2,ENDED
+04/04/2023 18:00,Feyenord Rotterdam,val,Manchester United,Carnage,4,1,ENDED
+04/04/2023 18:00,Sporting C.P,tommy,Juventus Turin,Rafa,0,3,ENDED
+04/04/2023 17:30,Feyenord Rotterdam,val,Sporting C.P,tommy,3,4,ENDED
+04/04/2023 17:30,Fenerbahce Istanbul,Lio,Juventus Turin,Rafa,1,1,ENDED
+04/04/2023 17:15,Feyenord Rotterdam,val,Juventus Turin,Rafa,1,2,ENDED
+04/04/2023 17:15,Fenerbahce Istanbul,Lio,Manchester United,Carnage,1,3,ENDED
+04/04/2023 17:00,Sporting C.P,tommy,Manchester United,Carnage,3,2,ENDED
+04/04/2023 17:00,Fenerbahce Istanbul,Lio,Feyenord Rotterdam,val,5,3,ENDED
+04/04/2023 16:45,Juventus Turin,Rafa,Manchester United,Carnage,2,1,ENDED
+04/04/2023 16:45,Fenerbahce Istanbul,Lio,Sporting C.P,tommy,4,4,ENDED
+04/04/2023 16:30,Manchester United,Carnage,Feyenord Rotterdam,val,2,2,ENDED
+04/04/2023 16:30,Juventus Turin,Rafa,Sporting C.P,tommy,4,1,ENDED
+04/04/2023 16:15,SSC Napoli,tommy,Real Madrid,val,8,4,ENDED
+04/04/2023 16:15,Manchester City,Rafa,Bayern München,Lio,4,4,ENDED
+04/04/2023 16:00,Manchester City,Rafa,Real Madrid,val,4,4,ENDED
+04/04/2023 16:00,Benfica Lisbon,Carnage,Bayern München,Lio,5,2,ENDED
+04/04/2023 15:45,Benfica Lisbon,Carnage,SSC Napoli,tommy,2,5,ENDED
+04/04/2023 15:45,Real Madrid,val,Bayern München,Lio,3,4,ENDED
+04/04/2023 15:30,Benfica Lisbon,Carnage,Manchester City,Rafa,2,3,ENDED
+04/04/2023 15:30,SSC Napoli,tommy,Bayern München,Lio,6,2,ENDED
+04/04/2023 15:15,Real Madrid,val,Benfica Lisbon,Carnage,1,5,ENDED
+04/04/2023 15:15,SSC Napoli,tommy,Manchester City,Rafa,5,3,ENDED
+04/04/2023 15:00,Real Madrid,val,SSC Napoli,tommy,3,1,ENDED
+04/04/2023 15:00,Bayern München,Lio,Manchester City,Rafa,3,4,ENDED
+04/04/2023 14:45,Real Madrid,val,Manchester City,Rafa,3,3,ENDED
+04/04/2023 14:45,Bayern München,Lio,Benfica Lisbon,Carnage,1,0,ENDED
+04/04/2023 14:30,SSC Napoli,tommy,Benfica Lisbon,Carnage,2,3,ENDED
+04/04/2023 14:30,Bayern München,Lio,Real Madrid,val,4,1,ENDED
+04/04/2023 14:15,Manchester City,Rafa,Benfica Lisbon,Carnage,2,4,ENDED
+04/04/2023 14:15,Bayern München,Lio,SSC Napoli,tommy,1,3,ENDED
+04/04/2023 14:00,Benfica Lisbon,Carnage,Real Madrid,val,4,2,ENDED
+04/04/2023 14:00,Manchester City,Rafa,SSC Napoli,tommy,2,5,ENDED
+04/04/2023 13:30,FC Barcelona,JohnyBeGood,Real Sociedad,Gorilla,3,3,ENDED
+04/04/2023 13:30,Real Betis,Pipis,Real Madrid,aibothard,0,1,ENDED
+04/04/2023 13:15,Real Betis,Pipis,Real Sociedad,Gorilla,6,6,ENDED
+04/04/2023 13:15,Atletico Madrid,General,Real Madrid,aibothard,3,4,ENDED
+04/04/2023 13:00,Atletico Madrid,General,FC Barcelona,JohnyBeGood,5,3,ENDED
+04/04/2023 13:00,Real Sociedad,Gorilla,Real Madrid,aibothard,1,1,ENDED
+04/04/2023 12:45,Atletico Madrid,General,Real Betis,Pipis,1,3,ENDED
+04/04/2023 12:45,FC Barcelona,JohnyBeGood,Real Madrid,aibothard,3,2,ENDED
+04/04/2023 12:30,Real Sociedad,Gorilla,Atletico Madrid,General,2,5,ENDED
+04/04/2023 12:30,FC Barcelona,JohnyBeGood,Real Betis,Pipis,1,5,ENDED
+04/04/2023 12:15,Real Sociedad,Gorilla,FC Barcelona,JohnyBeGood,3,2,ENDED
+04/04/2023 12:15,Real Madrid,aibothard,Real Betis,Pipis,1,3,ENDED
+04/04/2023 12:00,Real Sociedad,Gorilla,Real Betis,Pipis,2,2,ENDED
+04/04/2023 12:00,Real Madrid,aibothard,Atletico Madrid,General,2,2,ENDED
+04/04/2023 11:45,FC Barcelona,JohnyBeGood,Atletico Madrid,General,1,2,ENDED
+04/04/2023 11:45,Real Madrid,aibothard,Real Sociedad,Gorilla,2,3,ENDED
+04/04/2023 11:30,Real Betis,Pipis,Atletico Madrid,General,3,1,ENDED
+04/04/2023 11:30,Real Madrid,aibothard,FC Barcelona,JohnyBeGood,1,1,ENDED
+04/04/2023 11:15,Atletico Madrid,General,Real Sociedad,Gorilla,4,0,ENDED
+04/04/2023 11:15,Real Betis,Pipis,FC Barcelona,JohnyBeGood,2,3,ENDED
+04/04/2023 11:00,Arsenal,JohnyBeGood,Manchester City,Gorilla,3,2,ENDED
+04/04/2023 11:00,Newcastle Utd,Pipis,Manchester United,aibothard,1,3,ENDED
+04/04/2023 10:45,Newcastle Utd,Pipis,Manchester City,Gorilla,7,6,ENDED
+04/04/2023 10:45,Tottenham,General,Manchester United,aibothard,2,1,ENDED
+04/04/2023 10:30,Tottenham,General,Arsenal,JohnyBeGood,1,1,ENDED
+04/04/2023 10:30,Manchester City,Gorilla,Manchester United,aibothard,4,4,ENDED
+04/04/2023 10:15,Tottenham,General,Newcastle Utd,Pipis,5,1,ENDED
+04/04/2023 10:15,Arsenal,JohnyBeGood,Manchester United,aibothard,1,3,ENDED
+04/04/2023 10:00,Manchester City,Gorilla,Tottenham,General,2,3,ENDED
+04/04/2023 10:00,Arsenal,JohnyBeGood,Newcastle Utd,Pipis,4,3,ENDED
+04/04/2023 09:30,Manchester City,Gorilla,Arsenal,JohnyBeGood,3,5,ENDED
+04/04/2023 09:30,Manchester United,aibothard,Newcastle Utd,Pipis,1,3,ENDED
+04/04/2023 09:15,Manchester City,Gorilla,Newcastle Utd,Pipis,2,1,ENDED
+04/04/2023 09:15,Manchester United,aibothard,Tottenham,General,6,6,ENDED
+04/04/2023 09:00,Arsenal,JohnyBeGood,Tottenham,General,2,5,ENDED
+04/04/2023 09:00,Manchester United,aibothard,Manchester City,Gorilla,6,3,ENDED
+04/04/2023 08:45,Newcastle Utd,Pipis,Tottenham,General,1,1,ENDED
+04/04/2023 08:45,Manchester United,aibothard,Arsenal,JohnyBeGood,2,3,ENDED
+04/04/2023 08:30,Tottenham,General,Manchester City,Gorilla,5,2,ENDED
+04/04/2023 08:30,Newcastle Utd,Pipis,Arsenal,JohnyBeGood,2,1,ENDED
+04/04/2023 08:15,Basel,JohnyBeGood,Kaa Gent,Gorilla,3,1,ENDED
+04/04/2023 08:15,OGC Nice,Pipis,Fiorentina,aibothard,3,1,ENDED
+04/04/2023 08:00,OGC Nice,Pipis,Kaa Gent,Gorilla,3,4,ENDED
+04/04/2023 08:00,West Ham,General,Fiorentina,aibothard,3,2,ENDED
+04/04/2023 07:45,West Ham,General,Basel,JohnyBeGood,0,1,ENDED
+04/04/2023 07:45,Kaa Gent,Gorilla,Fiorentina,aibothard,4,2,ENDED
+04/04/2023 07:30,West Ham,General,OGC Nice,Pipis,3,3,ENDED
+04/04/2023 07:30,Basel,JohnyBeGood,Fiorentina,aibothard,3,3,ENDED
+04/04/2023 07:15,Kaa Gent,Gorilla,West Ham,General,3,2,ENDED
+04/04/2023 07:15,Basel,JohnyBeGood,OGC Nice,Pipis,6,4,ENDED
+04/04/2023 07:00,Kaa Gent,Gorilla,Basel,JohnyBeGood,5,2,ENDED
+04/04/2023 07:00,Fiorentina,aibothard,OGC Nice,Pipis,2,1,ENDED
+04/04/2023 06:45,Kaa Gent,Gorilla,OGC Nice,Pipis,4,7,ENDED
+04/04/2023 06:45,Fiorentina,aibothard,West Ham,General,1,2,ENDED
+04/04/2023 06:30,Basel,JohnyBeGood,West Ham,General,4,4,ENDED
+04/04/2023 06:30,Fiorentina,aibothard,Kaa Gent,Gorilla,4,3,ENDED
+04/04/2023 06:15,OGC Nice,Pipis,West Ham,General,3,1,ENDED
+04/04/2023 06:15,Fiorentina,aibothard,Basel,JohnyBeGood,3,1,ENDED
+04/04/2023 06:00,West Ham,General,Kaa Gent,Gorilla,1,3,ENDED
+04/04/2023 06:00,OGC Nice,Pipis,Basel,JohnyBeGood,2,3,ENDED
+04/04/2023 05:30,Arsenal,Magdy,Manchester City,Nasmi,3,1,ENDED
+04/04/2023 05:30,Newcastle Utd,Rocky,Manchester United,Seagal,0,2,ENDED
+04/04/2023 05:15,Newcastle Utd,Rocky,Manchester City,Nasmi,4,3,ENDED
+04/04/2023 05:15,Tottenham,Cantona,Manchester United,Seagal,2,2,ENDED
+04/04/2023 05:00,Tottenham,Cantona,Arsenal,Magdy,3,0,ENDED
+04/04/2023 05:00,Manchester City,Nasmi,Manchester United,Seagal,2,7,ENDED
+04/04/2023 04:45,Tottenham,Cantona,Newcastle Utd,Rocky,3,1,ENDED
+04/04/2023 04:45,Arsenal,Magdy,Manchester United,Seagal,1,2,ENDED
+04/04/2023 04:30,Manchester City,Nasmi,Tottenham,Cantona,4,4,ENDED
+04/04/2023 04:30,Arsenal,Magdy,Newcastle Utd,Rocky,1,0,ENDED
+04/04/2023 04:15,Manchester City,Nasmi,Arsenal,Magdy,3,2,ENDED
+04/04/2023 04:15,Manchester United,Seagal,Newcastle Utd,Rocky,1,4,ENDED
+04/04/2023 04:00,Manchester City,Nasmi,Newcastle Utd,Rocky,1,3,ENDED
+04/04/2023 04:00,Manchester United,Seagal,Tottenham,Cantona,3,3,ENDED
+04/04/2023 03:45,Arsenal,Magdy,Tottenham,Cantona,1,2,ENDED
+04/04/2023 03:45,Manchester United,Seagal,Manchester City,Nasmi,1,3,ENDED
+04/04/2023 03:30,Newcastle Utd,Rocky,Tottenham,Cantona,1,3,ENDED
+04/04/2023 03:30,Manchester United,Seagal,Arsenal,Magdy,1,2,ENDED
+04/04/2023 03:15,Tottenham,Cantona,Manchester City,Nasmi,3,1,ENDED
+04/04/2023 03:15,Newcastle Utd,Rocky,Arsenal,Magdy,2,1,ENDED
+04/04/2023 03:00,FC Barcelona,Magdy,Real Sociedad,Nasmi,3,4,ENDED
+04/04/2023 03:00,Real Betis,Rocky,Real Madrid,Seagal,3,3,ENDED
+04/04/2023 02:45,Real Betis,Rocky,Real Sociedad,Nasmi,3,6,ENDED
+04/04/2023 02:45,Atletico Madrid,Cantona,Real Madrid,Seagal,5,2,ENDED
+04/04/2023 02:30,Atletico Madrid,Cantona,FC Barcelona,Magdy,2,3,ENDED
+04/04/2023 02:30,Real Sociedad,Nasmi,Real Madrid,Seagal,2,5,ENDED
+04/04/2023 02:15,Atletico Madrid,Cantona,Real Betis,Rocky,2,3,ENDED
+04/04/2023 02:15,FC Barcelona,Magdy,Real Madrid,Seagal,3,1,ENDED
+04/04/2023 02:00,Real Sociedad,Nasmi,Atletico Madrid,Cantona,2,5,ENDED
+04/04/2023 02:00,FC Barcelona,Magdy,Real Betis,Rocky,4,3,ENDED
+04/04/2023 01:30,Real Sociedad,Nasmi,FC Barcelona,Magdy,2,1,ENDED
+04/04/2023 01:30,Real Madrid,Seagal,Real Betis,Rocky,3,3,ENDED
+04/04/2023 01:15,Real Sociedad,Nasmi,Real Betis,Rocky,4,1,ENDED
+04/04/2023 01:15,Real Madrid,Seagal,Atletico Madrid,Cantona,1,3,ENDED
+04/04/2023 01:00,FC Barcelona,Magdy,Atletico Madrid,Cantona,0,2,ENDED
+04/04/2023 01:00,Real Madrid,Seagal,Real Sociedad,Nasmi,5,2,ENDED
+04/04/2023 00:45,Real Betis,Rocky,Atletico Madrid,Cantona,2,2,ENDED
+04/04/2023 00:45,Real Madrid,Seagal,FC Barcelona,Magdy,3,3,ENDED
+04/04/2023 00:30,Atletico Madrid,Cantona,Real Sociedad,Nasmi,4,2,ENDED
+04/04/2023 00:30,Real Betis,Rocky,FC Barcelona,Magdy,3,4,ENDED
+04/04/2023 00:15,SSC Napoli,Magdy,Real Madrid,Nasmi,3,3,ENDED
+04/04/2023 00:15,Manchester City,Rocky,Bayern München,Seagal,1,2,ENDED
+04/04/2023 00:00,Manchester City,Rocky,Real Madrid,Nasmi,1,3,ENDED
+04/04/2023 00:00,Benfica Lisbon,Cantona,Bayern München,Seagal,4,1,ENDED

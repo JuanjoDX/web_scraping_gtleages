@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+22/04/2023 23:45,Benfica Lisbon,Spencer,SSC Napoli,Mad,5,2,ENDED
+22/04/2023 23:45,Real Madrid,Votepeace,Bayern München,Cliff,3,2,ENDED
+22/04/2023 23:30,Benfica Lisbon,Spencer,Manchester City,Nazario,3,1,ENDED
+22/04/2023 23:30,SSC Napoli,Mad,Bayern München,Cliff,1,3,ENDED
+22/04/2023 23:15,Real Madrid,Votepeace,Benfica Lisbon,Spencer,3,2,ENDED
+22/04/2023 23:15,SSC Napoli,Mad,Manchester City,Nazario,2,3,ENDED
+22/04/2023 23:00,Real Madrid,Votepeace,SSC Napoli,Mad,4,4,ENDED
+22/04/2023 23:00,Bayern München,Cliff,Manchester City,Nazario,5,5,ENDED
+22/04/2023 22:45,Real Madrid,Votepeace,Manchester City,Nazario,3,1,ENDED
+22/04/2023 22:45,Bayern München,Cliff,Benfica Lisbon,Spencer,2,4,ENDED
+22/04/2023 22:30,SSC Napoli,Mad,Benfica Lisbon,Spencer,2,4,ENDED
+22/04/2023 22:30,Bayern München,Cliff,Real Madrid,Votepeace,2,2,ENDED
+22/04/2023 22:15,Manchester City,Nazario,Benfica Lisbon,Spencer,6,4,ENDED
+22/04/2023 22:15,Bayern München,Cliff,SSC Napoli,Mad,2,2,ENDED
+22/04/2023 22:00,Benfica Lisbon,Spencer,Real Madrid,Votepeace,1,1,ENDED
+22/04/2023 22:00,Manchester City,Nazario,SSC Napoli,Mad,2,3,ENDED
+22/04/2023 21:30,SSC Napoli,Krouks,Real Madrid,General,0,3,FORFEIT
+22/04/2023 21:30,Manchester City,Tyson,Bayern München,Gorilla,3,5,ENDED
+22/04/2023 21:15,Manchester City,Tyson,Real Madrid,General,0,6,ENDED
+22/04/2023 21:15,Benfica Lisbon,aibothard,Bayern München,Gorilla,2,2,ENDED
+22/04/2023 21:00,Benfica Lisbon,aibothard,SSC Napoli,Krouks,3,0,FORFEIT
+22/04/2023 21:00,Real Madrid,General,Bayern München,Gorilla,2,2,ENDED
+22/04/2023 20:45,Benfica Lisbon,aibothard,Manchester City,Tyson,3,0,ENDED
+22/04/2023 20:45,SSC Napoli,Krouks,Bayern München,Gorilla,0,3,FORFEIT
+22/04/2023 20:30,Real Madrid,General,Benfica Lisbon,aibothard,2,4,ENDED
+22/04/2023 20:30,SSC Napoli,Krouks,Manchester City,Tyson,0,3,FORFEIT
+22/04/2023 20:15,Real Madrid,General,SSC Napoli,Krouks,3,0,FORFEIT
+22/04/2023 20:15,Bayern München,Gorilla,Manchester City,Tyson,3,2,ENDED
+22/04/2023 20:00,Real Madrid,General,Manchester City,Tyson,3,3,ENDED
+22/04/2023 20:00,Bayern München,Gorilla,Benfica Lisbon,aibothard,4,1,ENDED
+22/04/2023 19:45,SSC Napoli,Krouks,Benfica Lisbon,aibothard,0,3,FORFEIT
+22/04/2023 19:45,Bayern München,Gorilla,Real Madrid,General,1,4,ENDED
+22/04/2023 19:30,Manchester City,Tyson,Benfica Lisbon,aibothard,6,4,ENDED
+22/04/2023 19:30,Bayern München,Gorilla,SSC Napoli,Krouks,3,0,FORFEIT
+22/04/2023 19:15,Benfica Lisbon,aibothard,Real Madrid,General,1,5,ENDED
+22/04/2023 19:15,Manchester City,Tyson,SSC Napoli,Krouks,3,0,FORFEIT
+22/04/2023 19:00,Lazio,Krouks,Inter Milan,General,4,5,ENDED
+22/04/2023 19:00,SSC Napoli,Tyson,AC Milan,Gorilla,5,2,ENDED
+22/04/2023 18:45,SSC Napoli,Tyson,Inter Milan,General,1,2,ENDED
+22/04/2023 18:45,Roma,aibothard,AC Milan,Gorilla,3,2,ENDED
+22/04/2023 18:30,Roma,aibothard,Lazio,Krouks,5,4,ENDED
+22/04/2023 18:30,Inter Milan,General,AC Milan,Gorilla,4,5,ENDED
+22/04/2023 18:15,Roma,aibothard,SSC Napoli,Tyson,2,3,ENDED
+22/04/2023 18:15,Lazio,Krouks,AC Milan,Gorilla,2,5,ENDED
+22/04/2023 18:00,Inter Milan,General,Roma,aibothard,4,4,ENDED
+22/04/2023 18:00,Lazio,Krouks,SSC Napoli,Tyson,4,3,ENDED
+22/04/2023 17:30,Inter Milan,General,Lazio,Krouks,3,2,ENDED
+22/04/2023 17:30,AC Milan,Gorilla,SSC Napoli,Tyson,4,1,ENDED
+22/04/2023 17:15,Inter Milan,General,SSC Napoli,Tyson,5,5,ENDED
+22/04/2023 17:15,AC Milan,Gorilla,Roma,aibothard,5,0,ENDED
+22/04/2023 17:00,Lazio,Krouks,Roma,aibothard,4,3,ENDED
+22/04/2023 17:00,AC Milan,Gorilla,Inter Milan,General,5,1,ENDED
+22/04/2023 16:45,SSC Napoli,Tyson,Roma,aibothard,1,2,ENDED
+22/04/2023 16:45,AC Milan,Gorilla,Lazio,Krouks,3,2,ENDED
+22/04/2023 16:30,Roma,aibothard,Inter Milan,General,1,3,ENDED
+22/04/2023 16:30,SSC Napoli,Tyson,Lazio,Krouks,3,5,ENDED
+22/04/2023 16:15,Basel,Krouks,Kaa Gent,General,3,3,ENDED
+22/04/2023 16:15,OGC Nice,Tyson,Fiorentina,Gorilla,5,3,ENDED
+22/04/2023 16:00,OGC Nice,Tyson,Kaa Gent,General,1,3,ENDED
+22/04/2023 16:00,West Ham,aibothard,Fiorentina,Gorilla,1,4,ENDED
+22/04/2023 15:45,West Ham,aibothard,Basel,Krouks,5,2,ENDED
+22/04/2023 15:45,Kaa Gent,General,Fiorentina,Gorilla,6,3,ENDED
+22/04/2023 15:30,West Ham,aibothard,OGC Nice,Tyson,3,3,ENDED
+22/04/2023 15:30,Basel,Krouks,Fiorentina,Gorilla,2,4,ENDED
+22/04/2023 15:15,Kaa Gent,General,West Ham,aibothard,2,3,ENDED
+22/04/2023 15:15,Basel,Krouks,OGC Nice,Tyson,2,5,ENDED
+22/04/2023 15:00,Kaa Gent,General,Basel,Krouks,6,2,ENDED
+22/04/2023 15:00,Fiorentina,Gorilla,OGC Nice,Tyson,2,4,ENDED
+22/04/2023 14:45,Kaa Gent,General,OGC Nice,Tyson,1,1,ENDED
+22/04/2023 14:45,Fiorentina,Gorilla,West Ham,aibothard,2,1,ENDED
+22/04/2023 14:30,Basel,Krouks,West Ham,aibothard,4,2,ENDED
+22/04/2023 14:30,Fiorentina,Gorilla,Kaa Gent,General,5,3,ENDED
+22/04/2023 14:15,OGC Nice,Tyson,West Ham,aibothard,2,1,ENDED
+22/04/2023 14:15,Fiorentina,Gorilla,Basel,Krouks,2,5,ENDED
+22/04/2023 14:00,West Ham,aibothard,Kaa Gent,General,1,3,ENDED
+22/04/2023 14:00,OGC Nice,Tyson,Basel,Krouks,3,2,ENDED
+22/04/2023 13:30,FC Barcelona,Pontiac,Real Sociedad,Rocky,2,2,ENDED
+22/04/2023 13:30,Real Betis,Magdy,Real Madrid,Mars,2,2,ENDED
+22/04/2023 13:15,Real Betis,Magdy,Real Sociedad,Rocky,4,0,ENDED
+22/04/2023 13:15,Atletico Madrid,Nasmi,Real Madrid,Mars,3,3,ENDED
+22/04/2023 13:00,Atletico Madrid,Nasmi,FC Barcelona,Pontiac,6,4,ENDED
+22/04/2023 13:00,Real Sociedad,Rocky,Real Madrid,Mars,1,2,ENDED
+22/04/2023 12:45,Atletico Madrid,Nasmi,Real Betis,Magdy,5,7,ENDED
+22/04/2023 12:45,FC Barcelona,Pontiac,Real Madrid,Mars,2,2,ENDED
+22/04/2023 12:30,Real Sociedad,Rocky,Atletico Madrid,Nasmi,1,4,ENDED
+22/04/2023 12:30,FC Barcelona,Pontiac,Real Betis,Magdy,0,4,ENDED
+22/04/2023 12:15,Real Sociedad,Rocky,FC Barcelona,Pontiac,3,2,ENDED
+22/04/2023 12:15,Real Madrid,Mars,Real Betis,Magdy,1,3,ENDED
+22/04/2023 12:00,Real Sociedad,Rocky,Real Betis,Magdy,2,4,ENDED
+22/04/2023 12:00,Real Madrid,Mars,Atletico Madrid,Nasmi,1,1,ENDED
+22/04/2023 11:45,FC Barcelona,Pontiac,Atletico Madrid,Nasmi,1,3,ENDED
+22/04/2023 11:45,Real Madrid,Mars,Real Sociedad,Rocky,2,0,ENDED
+22/04/2023 11:30,Real Betis,Magdy,Atletico Madrid,Nasmi,3,4,ENDED
+22/04/2023 11:30,Real Madrid,Mars,FC Barcelona,Pontiac,3,5,ENDED
+22/04/2023 11:15,Atletico Madrid,Nasmi,Real Sociedad,Rocky,2,1,ENDED
+22/04/2023 11:15,Real Betis,Magdy,FC Barcelona,Pontiac,2,2,ENDED
+22/04/2023 11:00,SSC Napoli,Pontiac,Real Madrid,Rocky,3,4,ENDED
+22/04/2023 11:00,Manchester City,Magdy,Bayern München,Mars,3,3,ENDED
+22/04/2023 10:45,Manchester City,Magdy,Real Madrid,Rocky,3,2,ENDED
+22/04/2023 10:45,Benfica Lisbon,Nasmi,Bayern München,Mars,1,5,ENDED
+22/04/2023 10:30,Benfica Lisbon,Nasmi,SSC Napoli,Pontiac,4,5,ENDED
+22/04/2023 10:30,Real Madrid,Rocky,Bayern München,Mars,3,1,ENDED
+22/04/2023 10:15,Benfica Lisbon,Nasmi,Manchester City,Magdy,6,3,ENDED
+22/04/2023 10:15,SSC Napoli,Pontiac,Bayern München,Mars,4,3,ENDED
+22/04/2023 10:00,Real Madrid,Rocky,Benfica Lisbon,Nasmi,6,3,ENDED
+22/04/2023 10:00,SSC Napoli,Pontiac,Manchester City,Magdy,0,3,ENDED
+22/04/2023 09:30,Real Madrid,Rocky,SSC Napoli,Pontiac,2,2,ENDED
+22/04/2023 09:30,Bayern München,Mars,Manchester City,Magdy,3,0,ENDED
+22/04/2023 09:15,Real Madrid,Rocky,Manchester City,Magdy,3,1,ENDED
+22/04/2023 09:15,Bayern München,Mars,Benfica Lisbon,Nasmi,5,6,ENDED
+22/04/2023 09:00,SSC Napoli,Pontiac,Benfica Lisbon,Nasmi,2,5,ENDED
+22/04/2023 09:00,Bayern München,Mars,Real Madrid,Rocky,2,0,ENDED
+22/04/2023 08:45,Manchester City,Magdy,Benfica Lisbon,Nasmi,1,4,ENDED
+22/04/2023 08:45,Bayern München,Mars,SSC Napoli,Pontiac,2,2,ENDED
+22/04/2023 08:30,Benfica Lisbon,Nasmi,Real Madrid,Rocky,3,4,ENDED
+22/04/2023 08:30,Manchester City,Magdy,SSC Napoli,Pontiac,5,1,ENDED
+22/04/2023 08:15,Arsenal,Pontiac,Manchester City,Rocky,0,3,ENDED
+22/04/2023 08:15,Newcastle Utd,Magdy,Manchester United,Mars,2,2,ENDED
+22/04/2023 08:00,Newcastle Utd,Magdy,Manchester City,Rocky,4,3,ENDED
+22/04/2023 08:00,Tottenham,Nasmi,Manchester United,Mars,4,3,ENDED
+22/04/2023 07:45,Tottenham,Nasmi,Arsenal,Pontiac,3,1,ENDED
+22/04/2023 07:45,Manchester City,Rocky,Manchester United,Mars,2,3,ENDED
+22/04/2023 07:30,Tottenham,Nasmi,Newcastle Utd,Magdy,2,5,ENDED
+22/04/2023 07:30,Arsenal,Pontiac,Manchester United,Mars,1,3,ENDED
+22/04/2023 07:15,Manchester City,Rocky,Tottenham,Nasmi,4,4,ENDED
+22/04/2023 07:15,Arsenal,Pontiac,Newcastle Utd,Magdy,1,4,ENDED
+22/04/2023 07:00,Manchester City,Rocky,Arsenal,Pontiac,1,0,ENDED
+22/04/2023 07:00,Manchester United,Mars,Newcastle Utd,Magdy,3,1,ENDED
+22/04/2023 06:45,Manchester City,Rocky,Newcastle Utd,Magdy,0,2,ENDED
+22/04/2023 06:45,Manchester United,Mars,Tottenham,Nasmi,4,3,ENDED
+22/04/2023 06:30,Arsenal,Pontiac,Tottenham,Nasmi,4,2,ENDED
+22/04/2023 06:30,Manchester United,Mars,Manchester City,Rocky,3,1,ENDED
+22/04/2023 06:15,Newcastle Utd,Magdy,Tottenham,Nasmi,3,2,ENDED
+22/04/2023 06:15,Manchester United,Mars,Arsenal,Pontiac,2,2,ENDED
+22/04/2023 06:00,Tottenham,Nasmi,Manchester City,Rocky,3,2,ENDED
+22/04/2023 06:00,Newcastle Utd,Magdy,Arsenal,Pontiac,2,0,ENDED
+22/04/2023 05:30,Leipzig,Mad,Borussia Dortmund,Votepeace,3,3,ENDED
+22/04/2023 05:30,Union Berlin,Nazario,S.C Freiburg,Cliff,2,2,ENDED
+22/04/2023 05:15,Union Berlin,Nazario,Borussia Dortmund,Votepeace,2,2,ENDED
+22/04/2023 05:15,Bayern München,Spencer,S.C Freiburg,Cliff,3,3,ENDED
+22/04/2023 05:00,Bayern München,Spencer,Leipzig,Mad,0,1,ENDED
+22/04/2023 05:00,Borussia Dortmund,Votepeace,S.C Freiburg,Cliff,3,3,ENDED
+22/04/2023 04:45,Bayern München,Spencer,Union Berlin,Nazario,6,1,ENDED
+22/04/2023 04:45,Leipzig,Mad,S.C Freiburg,Cliff,2,1,ENDED
+22/04/2023 04:30,Borussia Dortmund,Votepeace,Bayern München,Spencer,4,5,ENDED
+22/04/2023 04:30,Leipzig,Mad,Union Berlin,Nazario,2,0,ENDED
+22/04/2023 04:15,Borussia Dortmund,Votepeace,Leipzig,Mad,5,1,ENDED
+22/04/2023 04:15,S.C Freiburg,Cliff,Union Berlin,Nazario,1,4,ENDED
+22/04/2023 04:00,Borussia Dortmund,Votepeace,Union Berlin,Nazario,9,4,ENDED
+22/04/2023 04:00,S.C Freiburg,Cliff,Bayern München,Spencer,2,5,ENDED
+22/04/2023 03:45,Leipzig,Mad,Bayern München,Spencer,3,3,ENDED
+22/04/2023 03:45,S.C Freiburg,Cliff,Borussia Dortmund,Votepeace,1,5,ENDED
+22/04/2023 03:30,Union Berlin,Nazario,Bayern München,Spencer,1,3,ENDED
+22/04/2023 03:30,S.C Freiburg,Cliff,Leipzig,Mad,3,2,ENDED
+22/04/2023 03:15,Bayern München,Spencer,Borussia Dortmund,Votepeace,2,2,ENDED
+22/04/2023 03:15,Union Berlin,Nazario,Leipzig,Mad,4,2,ENDED
+22/04/2023 03:00,Sporting C.P,Mad,Feyenord Rotterdam,Votepeace,1,2,ENDED
+22/04/2023 03:00,Juventus Turin,Nazario,Fenerbahce Istanbul,Cliff,3,0,ENDED
+22/04/2023 02:45,Juventus Turin,Nazario,Feyenord Rotterdam,Votepeace,3,0,ENDED
+22/04/2023 02:45,Manchester United,Spencer,Fenerbahce Istanbul,Cliff,3,3,ENDED
+22/04/2023 02:30,Manchester United,Spencer,Sporting C.P,Mad,2,0,ENDED
+22/04/2023 02:30,Feyenord Rotterdam,Votepeace,Fenerbahce Istanbul,Cliff,3,3,ENDED
+22/04/2023 02:15,Manchester United,Spencer,Juventus Turin,Nazario,4,3,ENDED
+22/04/2023 02:15,Sporting C.P,Mad,Fenerbahce Istanbul,Cliff,3,0,ENDED
+22/04/2023 02:00,Feyenord Rotterdam,Votepeace,Manchester United,Spencer,1,4,ENDED
+22/04/2023 02:00,Sporting C.P,Mad,Juventus Turin,Nazario,1,0,ENDED
+22/04/2023 01:30,Feyenord Rotterdam,Votepeace,Sporting C.P,Mad,1,3,ENDED
+22/04/2023 01:30,Fenerbahce Istanbul,Cliff,Juventus Turin,Nazario,0,1,ENDED
+22/04/2023 01:15,Feyenord Rotterdam,Votepeace,Juventus Turin,Nazario,3,2,ENDED
+22/04/2023 01:15,Fenerbahce Istanbul,Cliff,Manchester United,Spencer,2,2,ENDED
+22/04/2023 01:00,Sporting C.P,Mad,Manchester United,Spencer,5,4,ENDED
+22/04/2023 01:00,Fenerbahce Istanbul,Cliff,Feyenord Rotterdam,Votepeace,3,2,ENDED
+22/04/2023 00:45,Juventus Turin,Nazario,Manchester United,Spencer,4,6,ENDED
+22/04/2023 00:45,Fenerbahce Istanbul,Cliff,Sporting C.P,Mad,1,2,ENDED
+22/04/2023 00:30,Manchester United,Spencer,Feyenord Rotterdam,Votepeace,3,4,ENDED
+22/04/2023 00:30,Juventus Turin,Nazario,Sporting C.P,Mad,2,3,ENDED
+22/04/2023 00:15,SSC Napoli,Mad,Real Madrid,Votepeace,2,1,ENDED
+22/04/2023 00:15,Manchester City,Nazario,Bayern München,Cliff,1,0,ENDED
+22/04/2023 00:00,Manchester City,Nazario,Real Madrid,Votepeace,2,4,ENDED
+22/04/2023 00:00,Benfica Lisbon,Spencer,Bayern München,Cliff,5,1,ENDED

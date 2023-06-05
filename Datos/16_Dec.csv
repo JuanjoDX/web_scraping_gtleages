@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+16/12/2022 23:45,Manchester United,Ray,Arsenal,Mars,1,1,ENDED
+16/12/2022 23:45,Newcastle Utd,Moic,Manchester City,Nio,5,3,ENDED
+16/12/2022 23:30,Tottenham,Nazario,Manchester City,Nio,5,1,ENDED
+16/12/2022 23:30,Newcastle Utd,Moic,Manchester United,Ray,1,0,ENDED
+16/12/2022 23:15,Arsenal,Mars,Manchester City,Nio,3,2,ENDED
+16/12/2022 23:15,Newcastle Utd,Moic,Tottenham,Nazario,1,1,ENDED
+16/12/2022 23:00,Manchester City,Nio,Manchester United,Ray,2,3,ENDED
+16/12/2022 23:00,Arsenal,Mars,Tottenham,Nazario,2,0,ENDED
+16/12/2022 22:15,Borussia Dortmund,Danny,Eintracht Frankfurt,Carnage,1,0,ENDED
+16/12/2022 22:15,Bayern München,Nero,Leipzig,JohnyBeGood,2,1,ENDED
+16/12/2022 22:00,Bayern München,Nero,Eintracht Frankfurt,Carnage,0,3,ENDED
+16/12/2022 22:00,S.C Freiburg,Krouks,Leipzig,JohnyBeGood,2,3,ENDED
+16/12/2022 21:45,S.C Freiburg,Krouks,Borussia Dortmund,Danny,6,2,ENDED
+16/12/2022 21:45,Eintracht Frankfurt,Carnage,Leipzig,JohnyBeGood,3,2,ENDED
+16/12/2022 21:30,S.C Freiburg,Krouks,Bayern München,Nero,5,1,ENDED
+16/12/2022 21:30,Borussia Dortmund,Danny,Leipzig,JohnyBeGood,1,3,ENDED
+16/12/2022 21:15,Eintracht Frankfurt,Carnage,S.C Freiburg,Krouks,2,4,ENDED
+16/12/2022 21:15,Borussia Dortmund,Danny,Bayern München,Nero,4,3,ENDED
+16/12/2022 21:00,Eintracht Frankfurt,Carnage,Borussia Dortmund,Danny,2,2,ENDED
+16/12/2022 21:00,Leipzig,JohnyBeGood,Bayern München,Nero,2,5,ENDED
+16/12/2022 20:45,Eintracht Frankfurt,Carnage,Bayern München,Nero,2,2,ENDED
+16/12/2022 20:45,Leipzig,JohnyBeGood,S.C Freiburg,Krouks,3,5,ENDED
+16/12/2022 20:30,Borussia Dortmund,Danny,S.C Freiburg,Krouks,2,3,ENDED
+16/12/2022 20:30,Leipzig,JohnyBeGood,Eintracht Frankfurt,Carnage,0,4,ENDED
+16/12/2022 20:15,Bayern München,Nero,S.C Freiburg,Krouks,2,5,ENDED
+16/12/2022 20:15,Leipzig,JohnyBeGood,Borussia Dortmund,Danny,4,3,ENDED
+16/12/2022 20:00,S.C Freiburg,Krouks,Eintracht Frankfurt,Carnage,3,3,ENDED
+16/12/2022 20:00,Bayern München,Nero,Borussia Dortmund,Danny,4,2,ENDED
+16/12/2022 19:45,Ajax Amsterdam,Danny,S.C Freiburg,Carnage,1,1,ENDED
+16/12/2022 19:45,FC Barcelona,Nero,Manchester United,JohnyBeGood,0,3,ENDED
+16/12/2022 19:30,FC Barcelona,Nero,S.C Freiburg,Carnage,2,3,ENDED
+16/12/2022 19:30,Juventus Turin,Krouks,Manchester United,JohnyBeGood,4,5,ENDED
+16/12/2022 19:15,Juventus Turin,Krouks,Ajax Amsterdam,Danny,2,4,ENDED
+16/12/2022 19:15,S.C Freiburg,Carnage,Manchester United,JohnyBeGood,2,1,ENDED
+16/12/2022 19:00,Juventus Turin,Krouks,FC Barcelona,Nero,5,2,ENDED
+16/12/2022 19:00,Ajax Amsterdam,Danny,Manchester United,JohnyBeGood,1,3,ENDED
+16/12/2022 18:45,S.C Freiburg,Carnage,Juventus Turin,Krouks,0,1,ENDED
+16/12/2022 18:45,Ajax Amsterdam,Danny,FC Barcelona,Nero,1,5,ENDED
+16/12/2022 18:30,S.C Freiburg,Carnage,Ajax Amsterdam,Danny,3,1,ENDED
+16/12/2022 18:30,Manchester United,JohnyBeGood,FC Barcelona,Nero,3,3,ENDED
+16/12/2022 18:15,S.C Freiburg,Carnage,FC Barcelona,Nero,3,4,ENDED
+16/12/2022 18:15,Manchester United,JohnyBeGood,Juventus Turin,Krouks,1,1,ENDED
+16/12/2022 18:00,Ajax Amsterdam,Danny,Juventus Turin,Krouks,4,3,ENDED
+16/12/2022 18:00,Manchester United,JohnyBeGood,S.C Freiburg,Carnage,0,2,ENDED
+16/12/2022 17:45,FC Barcelona,Nero,Juventus Turin,Krouks,3,5,ENDED
+16/12/2022 17:45,Manchester United,JohnyBeGood,Ajax Amsterdam,Danny,2,2,ENDED
+16/12/2022 17:30,Juventus Turin,Krouks,S.C Freiburg,Carnage,2,4,ENDED
+16/12/2022 17:30,FC Barcelona,Nero,Ajax Amsterdam,Danny,4,5,ENDED
+16/12/2022 17:15,Bayern München,Danny,Real Madrid,Carnage,2,3,ENDED
+16/12/2022 17:15,Liverpool,Nero,Manchester City,JohnyBeGood,4,2,ENDED
+16/12/2022 17:00,Liverpool,Nero,Real Madrid,Carnage,0,3,ENDED
+16/12/2022 17:00,PSG,Krouks,Manchester City,JohnyBeGood,2,5,ENDED
+16/12/2022 16:45,PSG,Krouks,Bayern München,Danny,4,3,ENDED
+16/12/2022 16:45,Real Madrid,Carnage,Manchester City,JohnyBeGood,2,3,ENDED
+16/12/2022 16:30,PSG,Krouks,Liverpool,Nero,3,3,ENDED
+16/12/2022 16:30,Bayern München,Danny,Manchester City,JohnyBeGood,4,3,ENDED
+16/12/2022 16:15,Real Madrid,Carnage,PSG,Krouks,3,4,ENDED
+16/12/2022 16:15,Bayern München,Danny,Liverpool,Nero,1,6,ENDED
+16/12/2022 16:00,Real Madrid,Carnage,Bayern München,Danny,2,0,ENDED
+16/12/2022 16:00,Manchester City,JohnyBeGood,Liverpool,Nero,1,3,ENDED
+16/12/2022 15:45,Real Madrid,Carnage,Liverpool,Nero,4,2,ENDED
+16/12/2022 15:45,Manchester City,JohnyBeGood,PSG,Krouks,7,4,ENDED
+16/12/2022 15:30,Bayern München,Danny,PSG,Krouks,4,3,ENDED
+16/12/2022 15:30,Manchester City,JohnyBeGood,Real Madrid,Carnage,3,5,ENDED
+16/12/2022 15:15,Liverpool,Nero,PSG,Krouks,3,2,ENDED
+16/12/2022 15:15,Manchester City,JohnyBeGood,Bayern München,Danny,2,4,ENDED
+16/12/2022 15:00,PSG,Krouks,Real Madrid,Carnage,4,2,ENDED
+16/12/2022 15:00,Liverpool,Nero,Bayern München,Danny,2,4,ENDED
+16/12/2022 14:15,Trabzonspor,Gorilla,Adana,General,1,1,ENDED
+16/12/2022 14:15,Besiktas,Votepeace,Galatasaray,Rafa,1,2,ENDED
+16/12/2022 14:00,Besiktas,Votepeace,Adana,General,3,1,ENDED
+16/12/2022 14:00,Fenerbahce Istanbul,tommy,Galatasaray,Rafa,2,3,ENDED
+16/12/2022 13:45,Fenerbahce Istanbul,tommy,Trabzonspor,Gorilla,4,4,ENDED
+16/12/2022 13:45,Adana,General,Galatasaray,Rafa,3,3,ENDED
+16/12/2022 13:30,Fenerbahce Istanbul,tommy,Besiktas,Votepeace,4,2,ENDED
+16/12/2022 13:30,Trabzonspor,Gorilla,Galatasaray,Rafa,2,2,ENDED
+16/12/2022 13:15,Adana,General,Fenerbahce Istanbul,tommy,2,0,ENDED
+16/12/2022 13:15,Trabzonspor,Gorilla,Besiktas,Votepeace,3,0,ENDED
+16/12/2022 13:00,Adana,General,Trabzonspor,Gorilla,3,1,ENDED
+16/12/2022 13:00,Galatasaray,Rafa,Besiktas,Votepeace,1,1,ENDED
+16/12/2022 12:45,Adana,General,Besiktas,Votepeace,3,2,ENDED
+16/12/2022 12:45,Galatasaray,Rafa,Fenerbahce Istanbul,tommy,2,3,ENDED
+16/12/2022 12:30,Trabzonspor,Gorilla,Fenerbahce Istanbul,tommy,0,0,ENDED
+16/12/2022 12:30,Galatasaray,Rafa,Adana,General,0,0,ENDED
+16/12/2022 12:15,Besiktas,Votepeace,Fenerbahce Istanbul,tommy,2,2,ENDED
+16/12/2022 12:15,Galatasaray,Rafa,Trabzonspor,Gorilla,3,4,ENDED
+16/12/2022 12:00,Fenerbahce Istanbul,tommy,Adana,General,1,0,ENDED
+16/12/2022 12:00,Besiktas,Votepeace,Trabzonspor,Gorilla,2,3,ENDED
+16/12/2022 11:45,Athletic Bilbao,Gorilla,Atletico Madrid,General,1,0,ENDED
+16/12/2022 11:45,Real Madrid,Votepeace,Real Sociedad,Rafa,1,3,ENDED
+16/12/2022 11:30,Real Madrid,Votepeace,Atletico Madrid,General,3,4,ENDED
+16/12/2022 11:30,FC Barcelona,tommy,Real Sociedad,Rafa,1,1,ENDED
+16/12/2022 11:15,FC Barcelona,tommy,Athletic Bilbao,Gorilla,2,1,ENDED
+16/12/2022 11:15,Atletico Madrid,General,Real Sociedad,Rafa,3,3,ENDED
+16/12/2022 11:00,FC Barcelona,tommy,Real Madrid,Votepeace,5,3,ENDED
+16/12/2022 11:00,Athletic Bilbao,Gorilla,Real Sociedad,Rafa,4,3,ENDED
+16/12/2022 10:45,Atletico Madrid,General,FC Barcelona,tommy,2,3,ENDED
+16/12/2022 10:45,Athletic Bilbao,Gorilla,Real Madrid,Votepeace,2,3,ENDED
+16/12/2022 10:30,Atletico Madrid,General,Athletic Bilbao,Gorilla,0,2,ENDED
+16/12/2022 10:30,Real Sociedad,Rafa,Real Madrid,Votepeace,1,0,ENDED
+16/12/2022 10:15,Atletico Madrid,General,Real Madrid,Votepeace,3,0,ENDED
+16/12/2022 10:15,Real Sociedad,Rafa,FC Barcelona,tommy,4,1,ENDED
+16/12/2022 10:00,Athletic Bilbao,Gorilla,FC Barcelona,tommy,2,1,ENDED
+16/12/2022 10:00,Real Sociedad,Rafa,Atletico Madrid,General,3,3,ENDED
+16/12/2022 09:45,Real Madrid,Votepeace,FC Barcelona,tommy,3,1,ENDED
+16/12/2022 09:45,Real Sociedad,Rafa,Athletic Bilbao,Gorilla,3,0,ENDED
+16/12/2022 09:30,FC Barcelona,tommy,Atletico Madrid,General,5,5,ENDED
+16/12/2022 09:30,Real Madrid,Votepeace,Athletic Bilbao,Gorilla,3,2,ENDED
+16/12/2022 09:15,Eintracht Frankfurt,Gorilla,AC Milan,General,2,3,ENDED
+16/12/2022 09:15,Benfica Lisbon,Votepeace,Inter Milan,Rafa,6,4,ENDED
+16/12/2022 09:00,Benfica Lisbon,Votepeace,AC Milan,General,3,4,ENDED
+16/12/2022 09:00,Leipzig,tommy,Inter Milan,Rafa,0,1,ENDED
+16/12/2022 08:45,Leipzig,tommy,Eintracht Frankfurt,Gorilla,2,4,ENDED
+16/12/2022 08:45,AC Milan,General,Inter Milan,Rafa,4,2,ENDED
+16/12/2022 08:30,Leipzig,tommy,Benfica Lisbon,Votepeace,2,4,ENDED
+16/12/2022 08:30,Eintracht Frankfurt,Gorilla,Inter Milan,Rafa,2,2,ENDED
+16/12/2022 08:15,AC Milan,General,Leipzig,tommy,3,3,ENDED
+16/12/2022 08:15,Eintracht Frankfurt,Gorilla,Benfica Lisbon,Votepeace,2,3,ENDED
+16/12/2022 08:00,AC Milan,General,Eintracht Frankfurt,Gorilla,2,1,ENDED
+16/12/2022 08:00,Inter Milan,Rafa,Benfica Lisbon,Votepeace,1,3,ENDED
+16/12/2022 07:45,AC Milan,General,Benfica Lisbon,Votepeace,4,1,ENDED
+16/12/2022 07:45,Inter Milan,Rafa,Leipzig,tommy,0,0,ENDED
+16/12/2022 07:30,Eintracht Frankfurt,Gorilla,Leipzig,tommy,3,1,ENDED
+16/12/2022 07:30,Inter Milan,Rafa,AC Milan,General,3,2,ENDED
+16/12/2022 07:15,Benfica Lisbon,Votepeace,Leipzig,tommy,3,2,ENDED
+16/12/2022 07:15,Inter Milan,Rafa,Eintracht Frankfurt,Gorilla,0,3,ENDED
+16/12/2022 07:00,Leipzig,tommy,AC Milan,General,3,2,ENDED
+16/12/2022 07:00,Benfica Lisbon,Votepeace,Eintracht Frankfurt,Gorilla,1,2,ENDED
+16/12/2022 06:15,Leverkusen,Nio,Sevilla,Moic,3,3,ENDED
+16/12/2022 06:15,Fenerbahce Istanbul,Cliff,Roma,Mars,1,2,ENDED
+16/12/2022 06:00,Fenerbahce Istanbul,Cliff,Sevilla,Moic,1,2,ENDED
+16/12/2022 06:00,Arsenal,Nasmi,Roma,Mars,4,3,ENDED
+16/12/2022 05:45,Arsenal,Nasmi,Leverkusen,Nio,2,1,ENDED
+16/12/2022 05:45,Sevilla,Moic,Roma,Mars,4,3,ENDED
+16/12/2022 05:30,Arsenal,Nasmi,Fenerbahce Istanbul,Cliff,2,2,ENDED
+16/12/2022 05:30,Leverkusen,Nio,Roma,Mars,3,1,ENDED
+16/12/2022 05:15,Sevilla,Moic,Arsenal,Nasmi,3,1,ENDED
+16/12/2022 05:15,Leverkusen,Nio,Fenerbahce Istanbul,Cliff,2,3,ENDED
+16/12/2022 05:00,Sevilla,Moic,Leverkusen,Nio,1,1,ENDED
+16/12/2022 05:00,Roma,Mars,Fenerbahce Istanbul,Cliff,1,4,ENDED
+16/12/2022 04:45,Sevilla,Moic,Fenerbahce Istanbul,Cliff,1,1,ENDED
+16/12/2022 04:45,Roma,Mars,Arsenal,Nasmi,3,2,ENDED
+16/12/2022 04:30,Leverkusen,Nio,Arsenal,Nasmi,3,1,ENDED
+16/12/2022 04:30,Roma,Mars,Sevilla,Moic,1,0,ENDED
+16/12/2022 04:15,Fenerbahce Istanbul,Cliff,Arsenal,Nasmi,3,0,ENDED
+16/12/2022 04:15,Roma,Mars,Leverkusen,Nio,1,1,ENDED
+16/12/2022 04:00,Arsenal,Nasmi,Sevilla,Moic,1,1,ENDED
+16/12/2022 04:00,Fenerbahce Istanbul,Cliff,Leverkusen,Nio,1,3,ENDED
+16/12/2022 03:45,Tottenham,Nio,Manchester United,Moic,2,1,ENDED
+16/12/2022 03:45,Arsenal,Cliff,Newcastle Utd,Mars,1,1,ENDED
+16/12/2022 03:30,Arsenal,Cliff,Manchester United,Moic,1,0,ENDED
+16/12/2022 03:30,Manchester City,Nasmi,Newcastle Utd,Mars,2,4,ENDED
+16/12/2022 03:15,Manchester City,Nasmi,Tottenham,Nio,3,1,ENDED
+16/12/2022 03:15,Manchester United,Moic,Newcastle Utd,Mars,3,1,ENDED
+16/12/2022 03:00,Manchester City,Nasmi,Arsenal,Cliff,0,2,ENDED
+16/12/2022 03:00,Tottenham,Nio,Newcastle Utd,Mars,1,2,ENDED
+16/12/2022 02:45,Manchester United,Moic,Manchester City,Nasmi,0,3,ENDED
+16/12/2022 02:45,Tottenham,Nio,Arsenal,Cliff,1,2,ENDED
+16/12/2022 02:30,Manchester United,Moic,Tottenham,Nio,1,1,ENDED
+16/12/2022 02:30,Newcastle Utd,Mars,Arsenal,Cliff,1,1,ENDED
+16/12/2022 02:15,Manchester United,Moic,Arsenal,Cliff,4,0,ENDED
+16/12/2022 02:15,Newcastle Utd,Mars,Manchester City,Nasmi,2,0,ENDED
+16/12/2022 02:00,Tottenham,Nio,Manchester City,Nasmi,3,0,ENDED
+16/12/2022 02:00,Newcastle Utd,Mars,Manchester United,Moic,0,2,ENDED
+16/12/2022 01:45,Arsenal,Cliff,Manchester City,Nasmi,1,0,ENDED
+16/12/2022 01:45,Newcastle Utd,Mars,Tottenham,Nio,2,3,ENDED
+16/12/2022 01:30,Manchester City,Nasmi,Manchester United,Moic,1,2,ENDED
+16/12/2022 01:30,Arsenal,Cliff,Tottenham,Nio,3,3,ENDED
+16/12/2022 01:15,FC Porto,Nio,Tottenham,Moic,1,4,ENDED
+16/12/2022 01:15,Borussia Dortmund,Cliff,Chelsea,Mars,2,1,ENDED
+16/12/2022 01:00,Borussia Dortmund,Cliff,Tottenham,Moic,3,2,ENDED
+16/12/2022 01:00,SSC Napoli,Nasmi,Chelsea,Mars,3,2,ENDED
+16/12/2022 00:45,SSC Napoli,Nasmi,FC Porto,Nio,1,1,ENDED
+16/12/2022 00:45,Tottenham,Moic,Chelsea,Mars,2,2,ENDED
+16/12/2022 00:30,SSC Napoli,Nasmi,Borussia Dortmund,Cliff,0,3,ENDED
+16/12/2022 00:30,FC Porto,Nio,Chelsea,Mars,2,1,ENDED
+16/12/2022 00:15,Tottenham,Moic,SSC Napoli,Nasmi,0,1,ENDED
+16/12/2022 00:15,FC Porto,Nio,Borussia Dortmund,Cliff,1,1,ENDED
+16/12/2022 00:00,Tottenham,Moic,FC Porto,Nio,2,2,ENDED
+16/12/2022 00:00,Chelsea,Mars,Borussia Dortmund,Cliff,1,0,ENDED

@@ -1,0 +1,129 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+14/11/2022 23:45,Juventus Turin,Nasmi,PSG,Nazario,4,3,ENDED
+14/11/2022 23:45,Manchester City,Cliff,Bayern München,Mars,0,0,ENDED
+14/11/2022 23:30,Real Madrid,Carnage,Bayern München,Mars,1,2,ENDED
+14/11/2022 23:30,Manchester City,Cliff,Juventus Turin,Nasmi,1,0,ENDED
+14/11/2022 23:15,PSG,Nazario,Bayern München,Mars,3,0,ENDED
+14/11/2022 23:15,Manchester City,Cliff,Real Madrid,Carnage,2,1,ENDED
+14/11/2022 23:00,Bayern München,Mars,Juventus Turin,Nasmi,3,1,ENDED
+14/11/2022 23:00,PSG,Nazario,Real Madrid,Carnage,0,3,ENDED
+14/11/2022 22:15,Juventus Turin,billiot,Roma,Gorilla,2,3,ENDED
+14/11/2022 22:15,SSC Napoli,JohnyBeGood,Inter Milan,General,3,1,ENDED
+14/11/2022 22:00,SSC Napoli,JohnyBeGood,Roma,Gorilla,1,1,ENDED
+14/11/2022 22:00,AC Milan,Nero,Inter Milan,General,1,0,ENDED
+14/11/2022 21:45,AC Milan,Nero,Juventus Turin,billiot,0,1,ENDED
+14/11/2022 21:45,Roma,Gorilla,Inter Milan,General,3,3,ENDED
+14/11/2022 21:30,AC Milan,Nero,SSC Napoli,JohnyBeGood,3,3,ENDED
+14/11/2022 21:30,Juventus Turin,billiot,Inter Milan,General,2,1,ENDED
+14/11/2022 21:15,Roma,Gorilla,AC Milan,Nero,2,1,ENDED
+14/11/2022 21:15,Juventus Turin,billiot,SSC Napoli,JohnyBeGood,4,2,ENDED
+14/11/2022 21:00,Roma,Gorilla,Juventus Turin,billiot,1,2,ENDED
+14/11/2022 21:00,Inter Milan,General,SSC Napoli,JohnyBeGood,3,3,ENDED
+14/11/2022 20:45,Roma,Gorilla,SSC Napoli,JohnyBeGood,3,2,ENDED
+14/11/2022 20:45,Inter Milan,General,AC Milan,Nero,2,3,ENDED
+14/11/2022 20:30,Juventus Turin,billiot,AC Milan,Nero,1,3,ENDED
+14/11/2022 20:30,Inter Milan,General,Roma,Gorilla,3,2,ENDED
+14/11/2022 20:15,SSC Napoli,JohnyBeGood,AC Milan,Nero,3,1,ENDED
+14/11/2022 20:15,Inter Milan,General,Juventus Turin,billiot,1,0,ENDED
+14/11/2022 20:00,AC Milan,Nero,Roma,Gorilla,1,2,ENDED
+14/11/2022 20:00,SSC Napoli,JohnyBeGood,Juventus Turin,billiot,3,3,ENDED
+14/11/2022 19:45,Istanbul Basaksehir,billiot,FC Koln,Gorilla,2,0,ENDED
+14/11/2022 19:45,West Ham,JohnyBeGood,Fiorentina,General,1,1,ENDED
+14/11/2022 19:30,West Ham,JohnyBeGood,FC Koln,Gorilla,4,3,ENDED
+14/11/2022 19:30,Villarreal,Nero,Fiorentina,General,2,4,ENDED
+14/11/2022 19:15,Villarreal,Nero,Istanbul Basaksehir,billiot,1,0,ENDED
+14/11/2022 19:15,FC Koln,Gorilla,Fiorentina,General,2,1,ENDED
+14/11/2022 19:00,Villarreal,Nero,West Ham,JohnyBeGood,2,0,ENDED
+14/11/2022 19:00,Istanbul Basaksehir,billiot,Fiorentina,General,2,1,ENDED
+14/11/2022 18:45,FC Koln,Gorilla,Villarreal,Nero,2,3,ENDED
+14/11/2022 18:45,Istanbul Basaksehir,billiot,West Ham,JohnyBeGood,5,3,ENDED
+14/11/2022 18:30,FC Koln,Gorilla,Istanbul Basaksehir,billiot,2,2,ENDED
+14/11/2022 18:30,Fiorentina,General,West Ham,JohnyBeGood,3,2,ENDED
+14/11/2022 18:15,FC Koln,Gorilla,West Ham,JohnyBeGood,3,2,ENDED
+14/11/2022 18:15,Fiorentina,General,Villarreal,Nero,2,1,ENDED
+14/11/2022 18:00,Istanbul Basaksehir,billiot,Villarreal,Nero,3,0,ENDED
+14/11/2022 18:00,Fiorentina,General,FC Koln,Gorilla,1,2,ENDED
+14/11/2022 17:45,West Ham,JohnyBeGood,Villarreal,Nero,2,2,ENDED
+14/11/2022 17:45,Fiorentina,General,Istanbul Basaksehir,billiot,3,2,ENDED
+14/11/2022 17:30,Villarreal,Nero,FC Koln,Gorilla,3,4,ENDED
+14/11/2022 17:30,West Ham,JohnyBeGood,Istanbul Basaksehir,billiot,4,1,ENDED
+14/11/2022 17:15,Chelsea,billiot,Leverkusen,Gorilla,3,2,ENDED
+14/11/2022 17:15,Ajax Amsterdam,JohnyBeGood,Atletico Madrid,General,3,2,ENDED
+14/11/2022 17:00,Ajax Amsterdam,JohnyBeGood,Leverkusen,Gorilla,2,2,ENDED
+14/11/2022 17:00,AC Milan,Nero,Atletico Madrid,General,3,4,ENDED
+14/11/2022 16:45,AC Milan,Nero,Chelsea,billiot,1,1,ENDED
+14/11/2022 16:45,Leverkusen,Gorilla,Atletico Madrid,General,1,4,ENDED
+14/11/2022 16:30,AC Milan,Nero,Ajax Amsterdam,JohnyBeGood,2,4,ENDED
+14/11/2022 16:30,Chelsea,billiot,Atletico Madrid,General,1,2,ENDED
+14/11/2022 16:15,Leverkusen,Gorilla,AC Milan,Nero,0,1,ENDED
+14/11/2022 16:15,Chelsea,billiot,Ajax Amsterdam,JohnyBeGood,4,1,ENDED
+14/11/2022 16:00,Leverkusen,Gorilla,Chelsea,billiot,1,0,ENDED
+14/11/2022 16:00,Atletico Madrid,General,Ajax Amsterdam,JohnyBeGood,5,1,ENDED
+14/11/2022 15:45,Leverkusen,Gorilla,Ajax Amsterdam,JohnyBeGood,5,1,ENDED
+14/11/2022 15:45,Atletico Madrid,General,AC Milan,Nero,2,1,ENDED
+14/11/2022 15:30,Chelsea,billiot,AC Milan,Nero,1,2,ENDED
+14/11/2022 15:30,Atletico Madrid,General,Leverkusen,Gorilla,2,2,ENDED
+14/11/2022 15:15,Ajax Amsterdam,JohnyBeGood,AC Milan,Nero,2,2,ENDED
+14/11/2022 15:15,Atletico Madrid,General,Chelsea,billiot,1,0,ENDED
+14/11/2022 15:00,AC Milan,Nero,Leverkusen,Gorilla,0,4,ENDED
+14/11/2022 15:00,Ajax Amsterdam,JohnyBeGood,Chelsea,billiot,2,0,ENDED
+14/11/2022 14:15,Chelsea,aibothard,Manchester United,val,1,1,ENDED
+14/11/2022 14:15,Liverpool,Rafa,Arsenal,Spex,0,3,ENDED
+14/11/2022 14:00,Liverpool,Rafa,Manchester United,val,2,2,ENDED
+14/11/2022 14:00,Manchester City,Votepeace,Arsenal,Spex,1,2,ENDED
+14/11/2022 13:45,Manchester City,Votepeace,Chelsea,aibothard,2,1,ENDED
+14/11/2022 13:45,Manchester United,val,Arsenal,Spex,1,2,ENDED
+14/11/2022 13:30,Manchester City,Votepeace,Liverpool,Rafa,4,2,ENDED
+14/11/2022 13:30,Chelsea,aibothard,Arsenal,Spex,1,3,ENDED
+14/11/2022 13:15,Manchester United,val,Manchester City,Votepeace,3,2,ENDED
+14/11/2022 13:15,Chelsea,aibothard,Liverpool,Rafa,2,3,ENDED
+14/11/2022 13:00,Manchester United,val,Chelsea,aibothard,1,0,ENDED
+14/11/2022 13:00,Arsenal,Spex,Liverpool,Rafa,1,3,ENDED
+14/11/2022 12:45,Manchester United,val,Liverpool,Rafa,1,0,ENDED
+14/11/2022 12:45,Arsenal,Spex,Manchester City,Votepeace,1,3,ENDED
+14/11/2022 12:30,Chelsea,aibothard,Manchester City,Votepeace,2,1,ENDED
+14/11/2022 12:30,Arsenal,Spex,Manchester United,val,1,2,ENDED
+14/11/2022 12:15,Liverpool,Rafa,Manchester City,Votepeace,2,2,ENDED
+14/11/2022 12:15,Arsenal,Spex,Chelsea,aibothard,2,0,ENDED
+14/11/2022 12:00,Manchester City,Votepeace,Manchester United,val,3,2,ENDED
+14/11/2022 12:00,Liverpool,Rafa,Chelsea,aibothard,4,1,ENDED
+14/11/2022 11:45,Real Betis,aibothard,PSV Eindhoven,val,0,3,ENDED
+14/11/2022 11:45,Manchester United,Rafa,Fenerbahce Istanbul,Spex,0,1,ENDED
+14/11/2022 11:30,Manchester United,Rafa,PSV Eindhoven,val,2,1,ENDED
+14/11/2022 11:30,Roma,Votepeace,Fenerbahce Istanbul,Spex,2,5,ENDED
+14/11/2022 11:15,Roma,Votepeace,Real Betis,aibothard,1,5,ENDED
+14/11/2022 11:15,PSV Eindhoven,val,Fenerbahce Istanbul,Spex,1,1,ENDED
+14/11/2022 11:00,Roma,Votepeace,Manchester United,Rafa,0,3,ENDED
+14/11/2022 11:00,Real Betis,aibothard,Fenerbahce Istanbul,Spex,0,1,ENDED
+14/11/2022 10:45,PSV Eindhoven,val,Roma,Votepeace,1,4,ENDED
+14/11/2022 10:45,Real Betis,aibothard,Manchester United,Rafa,0,5,ENDED
+14/11/2022 10:30,PSV Eindhoven,val,Real Betis,aibothard,3,1,ENDED
+14/11/2022 10:30,Fenerbahce Istanbul,Spex,Manchester United,Rafa,3,1,ENDED
+14/11/2022 10:15,PSV Eindhoven,val,Manchester United,Rafa,1,3,ENDED
+14/11/2022 10:15,Fenerbahce Istanbul,Spex,Roma,Votepeace,0,1,ENDED
+14/11/2022 10:00,Real Betis,aibothard,Roma,Votepeace,1,4,ENDED
+14/11/2022 10:00,Fenerbahce Istanbul,Spex,PSV Eindhoven,val,3,0,ENDED
+14/11/2022 09:45,Manchester United,Rafa,Roma,Votepeace,2,1,ENDED
+14/11/2022 09:45,Fenerbahce Istanbul,Spex,Real Betis,aibothard,5,0,ENDED
+14/11/2022 09:30,Roma,Votepeace,PSV Eindhoven,val,1,1,ENDED
+14/11/2022 09:30,Manchester United,Rafa,Real Betis,aibothard,1,2,ENDED
+14/11/2022 09:15,Borussia Dortmund,aibothard,Benfica Lisbon,val,2,1,ENDED
+14/11/2022 09:15,FC Barcelona,Rafa,SSC Napoli,Spex,2,2,ENDED
+14/11/2022 09:00,FC Barcelona,Rafa,Benfica Lisbon,val,1,1,ENDED
+14/11/2022 09:00,Liverpool,Votepeace,SSC Napoli,Spex,3,1,ENDED
+14/11/2022 08:45,Liverpool,Votepeace,Borussia Dortmund,aibothard,2,3,ENDED
+14/11/2022 08:45,Benfica Lisbon,val,SSC Napoli,Spex,2,5,ENDED
+14/11/2022 08:30,Liverpool,Votepeace,FC Barcelona,Rafa,2,3,ENDED
+14/11/2022 08:30,Borussia Dortmund,aibothard,SSC Napoli,Spex,2,2,ENDED
+14/11/2022 08:15,Benfica Lisbon,val,Liverpool,Votepeace,2,2,ENDED
+14/11/2022 08:15,Borussia Dortmund,aibothard,FC Barcelona,Rafa,0,0,ENDED
+14/11/2022 08:00,Benfica Lisbon,val,Borussia Dortmund,aibothard,5,1,ENDED
+14/11/2022 08:00,SSC Napoli,Spex,FC Barcelona,Rafa,2,3,ENDED
+14/11/2022 07:45,Benfica Lisbon,val,FC Barcelona,Rafa,1,0,ENDED
+14/11/2022 07:45,SSC Napoli,Spex,Liverpool,Votepeace,4,1,ENDED
+14/11/2022 07:30,Borussia Dortmund,aibothard,Liverpool,Votepeace,5,3,ENDED
+14/11/2022 07:30,SSC Napoli,Spex,Benfica Lisbon,val,2,3,ENDED
+14/11/2022 07:15,FC Barcelona,Rafa,Liverpool,Votepeace,2,2,ENDED
+14/11/2022 07:15,SSC Napoli,Spex,Borussia Dortmund,aibothard,1,3,ENDED
+14/11/2022 07:00,Liverpool,Votepeace,Benfica Lisbon,val,1,2,ENDED
+14/11/2022 07:00,FC Barcelona,Rafa,Borussia Dortmund,aibothard,3,1,ENDED

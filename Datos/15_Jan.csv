@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+15/01/2023 23:45,Real Madrid,Moic,Liverpool,Mad,0,2,ENDED
+15/01/2023 23:45,Manchester City,Krouks,PSG,Votepeace,2,2,ENDED
+15/01/2023 23:30,Bayern München,Cliff,PSG,Votepeace,3,3,ENDED
+15/01/2023 23:30,Manchester City,Krouks,Real Madrid,Moic,3,5,ENDED
+15/01/2023 23:15,Liverpool,Mad,PSG,Votepeace,4,5,ENDED
+15/01/2023 23:15,Manchester City,Krouks,Bayern München,Cliff,1,3,ENDED
+15/01/2023 23:00,PSG,Votepeace,Real Madrid,Moic,4,4,ENDED
+15/01/2023 23:00,Liverpool,Mad,Bayern München,Cliff,3,3,ENDED
+15/01/2023 22:30,Borussia Dortmund,Gorilla,Eintracht Frankfurt,Brand,2,3,ENDED
+15/01/2023 22:30,Bayern München,Lio,Leipzig,Pipis,1,4,ENDED
+15/01/2023 22:15,Bayern München,Lio,Eintracht Frankfurt,Brand,2,0,ENDED
+15/01/2023 22:15,S.C Freiburg,Nero,Leipzig,Pipis,3,2,ENDED
+15/01/2023 22:00,S.C Freiburg,Nero,Borussia Dortmund,Gorilla,3,4,ENDED
+15/01/2023 22:00,Eintracht Frankfurt,Brand,Leipzig,Pipis,5,5,ENDED
+15/01/2023 21:45,S.C Freiburg,Nero,Bayern München,Lio,2,1,ENDED
+15/01/2023 21:45,Borussia Dortmund,Gorilla,Leipzig,Pipis,1,2,ENDED
+15/01/2023 21:30,Eintracht Frankfurt,Brand,S.C Freiburg,Nero,4,3,ENDED
+15/01/2023 21:30,Borussia Dortmund,Gorilla,Bayern München,Lio,3,2,ENDED
+15/01/2023 21:15,Eintracht Frankfurt,Brand,Borussia Dortmund,Gorilla,1,4,ENDED
+15/01/2023 21:15,Leipzig,Pipis,Bayern München,Lio,3,5,ENDED
+15/01/2023 21:00,Eintracht Frankfurt,Brand,Bayern München,Lio,1,0,ENDED
+15/01/2023 21:00,Leipzig,Pipis,S.C Freiburg,Nero,1,2,ENDED
+15/01/2023 20:45,Borussia Dortmund,Gorilla,S.C Freiburg,Nero,3,3,ENDED
+15/01/2023 20:45,Leipzig,Pipis,Eintracht Frankfurt,Brand,2,2,ENDED
+15/01/2023 20:30,Bayern München,Lio,S.C Freiburg,Nero,0,2,ENDED
+15/01/2023 20:30,Leipzig,Pipis,Borussia Dortmund,Gorilla,3,2,ENDED
+15/01/2023 20:15,S.C Freiburg,Nero,Eintracht Frankfurt,Brand,3,1,ENDED
+15/01/2023 20:15,Bayern München,Lio,Borussia Dortmund,Gorilla,2,1,ENDED
+15/01/2023 20:00,Athletic Bilbao,Gorilla,Atletico Madrid,Brand,3,3,ENDED
+15/01/2023 20:00,Real Madrid,Lio,Real Sociedad,Pipis,1,3,ENDED
+15/01/2023 19:45,Real Madrid,Lio,Atletico Madrid,Brand,0,1,ENDED
+15/01/2023 19:45,FC Barcelona,Nero,Real Sociedad,Pipis,3,1,ENDED
+15/01/2023 19:30,FC Barcelona,Nero,Athletic Bilbao,Gorilla,2,6,ENDED
+15/01/2023 19:30,Atletico Madrid,Brand,Real Sociedad,Pipis,2,1,ENDED
+15/01/2023 19:15,FC Barcelona,Nero,Real Madrid,Lio,1,1,ENDED
+15/01/2023 19:15,Athletic Bilbao,Gorilla,Real Sociedad,Pipis,4,2,ENDED
+15/01/2023 19:00,Atletico Madrid,Brand,FC Barcelona,Nero,3,2,ENDED
+15/01/2023 19:00,Athletic Bilbao,Gorilla,Real Madrid,Lio,2,1,ENDED
+15/01/2023 18:30,Atletico Madrid,Brand,Athletic Bilbao,Gorilla,1,2,ENDED
+15/01/2023 18:30,Real Sociedad,Pipis,Real Madrid,Lio,1,2,ENDED
+15/01/2023 18:15,Atletico Madrid,Brand,Real Madrid,Lio,3,3,ENDED
+15/01/2023 18:15,Real Sociedad,Pipis,FC Barcelona,Nero,1,1,ENDED
+15/01/2023 18:00,Athletic Bilbao,Gorilla,FC Barcelona,Nero,3,1,ENDED
+15/01/2023 18:00,Real Sociedad,Pipis,Atletico Madrid,Brand,3,3,ENDED
+15/01/2023 17:45,Real Madrid,Lio,FC Barcelona,Nero,5,3,ENDED
+15/01/2023 17:45,Real Sociedad,Pipis,Athletic Bilbao,Gorilla,1,2,ENDED
+15/01/2023 17:30,FC Barcelona,Nero,Atletico Madrid,Brand,4,4,ENDED
+15/01/2023 17:30,Real Madrid,Lio,Athletic Bilbao,Gorilla,0,3,ENDED
+15/01/2023 17:15,Eintracht Frankfurt,Gorilla,AC Milan,Brand,1,3,ENDED
+15/01/2023 17:15,Benfica Lisbon,Lio,Inter Milan,Pipis,4,4,ENDED
+15/01/2023 17:00,Benfica Lisbon,Lio,AC Milan,Brand,2,0,ENDED
+15/01/2023 17:00,Leipzig,Nero,Inter Milan,Pipis,1,2,ENDED
+15/01/2023 16:45,Leipzig,Nero,Eintracht Frankfurt,Gorilla,2,2,ENDED
+15/01/2023 16:45,AC Milan,Brand,Inter Milan,Pipis,0,1,ENDED
+15/01/2023 16:30,Leipzig,Nero,Benfica Lisbon,Lio,1,1,ENDED
+15/01/2023 16:30,Eintracht Frankfurt,Gorilla,Inter Milan,Pipis,1,3,ENDED
+15/01/2023 16:15,AC Milan,Brand,Leipzig,Nero,3,4,ENDED
+15/01/2023 16:15,Eintracht Frankfurt,Gorilla,Benfica Lisbon,Lio,3,5,ENDED
+15/01/2023 16:00,AC Milan,Brand,Eintracht Frankfurt,Gorilla,2,4,ENDED
+15/01/2023 16:00,Inter Milan,Pipis,Benfica Lisbon,Lio,4,1,ENDED
+15/01/2023 15:45,AC Milan,Brand,Benfica Lisbon,Lio,3,3,ENDED
+15/01/2023 15:45,Inter Milan,Pipis,Leipzig,Nero,2,2,ENDED
+15/01/2023 15:30,Eintracht Frankfurt,Gorilla,Leipzig,Nero,5,0,ENDED
+15/01/2023 15:30,Inter Milan,Pipis,AC Milan,Brand,3,3,ENDED
+15/01/2023 15:15,Benfica Lisbon,Lio,Leipzig,Nero,2,2,ENDED
+15/01/2023 15:15,Inter Milan,Pipis,Eintracht Frankfurt,Gorilla,1,2,ENDED
+15/01/2023 15:00,Leipzig,Nero,AC Milan,Brand,1,3,ENDED
+15/01/2023 15:00,Benfica Lisbon,Lio,Eintracht Frankfurt,Gorilla,2,2,ENDED
+15/01/2023 14:30,Bayern München,tommy,Real Madrid,General,1,2,ENDED
+15/01/2023 14:30,Liverpool,Rafa,Manchester City,val,2,2,ENDED
+15/01/2023 14:15,Liverpool,Rafa,Real Madrid,General,2,5,ENDED
+15/01/2023 14:15,PSG,Tyson,Manchester City,val,2,4,ENDED
+15/01/2023 14:00,PSG,Tyson,Bayern München,tommy,1,2,ENDED
+15/01/2023 14:00,Real Madrid,General,Manchester City,val,4,5,ENDED
+15/01/2023 13:45,PSG,Tyson,Liverpool,Rafa,5,6,ENDED
+15/01/2023 13:45,Bayern München,tommy,Manchester City,val,2,3,ENDED
+15/01/2023 13:30,Real Madrid,General,PSG,Tyson,1,1,ENDED
+15/01/2023 13:30,Bayern München,tommy,Liverpool,Rafa,1,0,ENDED
+15/01/2023 13:15,Real Madrid,General,Bayern München,tommy,2,5,ENDED
+15/01/2023 13:15,Manchester City,val,Liverpool,Rafa,3,2,ENDED
+15/01/2023 13:00,Real Madrid,General,Liverpool,Rafa,2,2,ENDED
+15/01/2023 13:00,Manchester City,val,PSG,Tyson,3,3,ENDED
+15/01/2023 12:45,Bayern München,tommy,PSG,Tyson,2,0,ENDED
+15/01/2023 12:45,Manchester City,val,Real Madrid,General,1,1,ENDED
+15/01/2023 12:30,Liverpool,Rafa,PSG,Tyson,2,2,ENDED
+15/01/2023 12:30,Manchester City,val,Bayern München,tommy,3,1,ENDED
+15/01/2023 12:15,PSG,Tyson,Real Madrid,General,3,1,ENDED
+15/01/2023 12:15,Liverpool,Rafa,Bayern München,tommy,2,4,ENDED
+15/01/2023 12:00,Borussia Dortmund,tommy,Eintracht Frankfurt,General,3,3,ENDED
+15/01/2023 12:00,Bayern München,Rafa,Leipzig,val,2,0,ENDED
+15/01/2023 11:45,Bayern München,Rafa,Eintracht Frankfurt,General,3,2,ENDED
+15/01/2023 11:45,S.C Freiburg,Tyson,Leipzig,val,2,1,ENDED
+15/01/2023 11:30,S.C Freiburg,Tyson,Borussia Dortmund,tommy,2,0,ENDED
+15/01/2023 11:30,Eintracht Frankfurt,General,Leipzig,val,1,3,ENDED
+15/01/2023 11:15,S.C Freiburg,Tyson,Bayern München,Rafa,3,1,ENDED
+15/01/2023 11:15,Borussia Dortmund,tommy,Leipzig,val,2,0,ENDED
+15/01/2023 11:00,Eintracht Frankfurt,General,S.C Freiburg,Tyson,1,0,ENDED
+15/01/2023 11:00,Borussia Dortmund,tommy,Bayern München,Rafa,2,2,ENDED
+15/01/2023 10:30,Eintracht Frankfurt,General,Borussia Dortmund,tommy,2,4,ENDED
+15/01/2023 10:30,Leipzig,val,Bayern München,Rafa,2,2,ENDED
+15/01/2023 10:15,Eintracht Frankfurt,General,Bayern München,Rafa,2,1,ENDED
+15/01/2023 10:15,Leipzig,val,S.C Freiburg,Tyson,2,2,ENDED
+15/01/2023 10:00,Borussia Dortmund,tommy,S.C Freiburg,Tyson,2,2,ENDED
+15/01/2023 10:00,Leipzig,val,Eintracht Frankfurt,General,2,3,ENDED
+15/01/2023 09:45,Bayern München,Rafa,S.C Freiburg,Tyson,2,1,ENDED
+15/01/2023 09:45,Leipzig,val,Borussia Dortmund,tommy,3,1,ENDED
+15/01/2023 09:30,S.C Freiburg,Tyson,Eintracht Frankfurt,General,1,3,ENDED
+15/01/2023 09:30,Bayern München,Rafa,Borussia Dortmund,tommy,2,1,ENDED
+15/01/2023 09:15,Ajax Amsterdam,tommy,S.C Freiburg,General,1,1,ENDED
+15/01/2023 09:15,FC Barcelona,Rafa,Manchester United,val,1,3,ENDED
+15/01/2023 09:00,FC Barcelona,Rafa,S.C Freiburg,General,3,2,ENDED
+15/01/2023 09:00,Juventus Turin,Tyson,Manchester United,val,1,2,ENDED
+15/01/2023 08:45,Juventus Turin,Tyson,Ajax Amsterdam,tommy,4,3,ENDED
+15/01/2023 08:45,S.C Freiburg,General,Manchester United,val,1,0,ENDED
+15/01/2023 08:30,Juventus Turin,Tyson,FC Barcelona,Rafa,2,1,ENDED
+15/01/2023 08:30,Ajax Amsterdam,tommy,Manchester United,val,1,1,ENDED
+15/01/2023 08:15,S.C Freiburg,General,Juventus Turin,Tyson,3,0,ENDED
+15/01/2023 08:15,Ajax Amsterdam,tommy,FC Barcelona,Rafa,1,2,ENDED
+15/01/2023 08:00,S.C Freiburg,General,Ajax Amsterdam,tommy,2,3,ENDED
+15/01/2023 08:00,Manchester United,val,FC Barcelona,Rafa,0,1,ENDED
+15/01/2023 07:45,S.C Freiburg,General,FC Barcelona,Rafa,2,2,ENDED
+15/01/2023 07:45,Manchester United,val,Juventus Turin,Tyson,1,1,ENDED
+15/01/2023 07:30,Ajax Amsterdam,tommy,Juventus Turin,Tyson,4,3,ENDED
+15/01/2023 07:30,Manchester United,val,S.C Freiburg,General,1,0,ENDED
+15/01/2023 07:15,FC Barcelona,Rafa,Juventus Turin,Tyson,3,1,ENDED
+15/01/2023 07:15,Manchester United,val,Ajax Amsterdam,tommy,2,0,ENDED
+15/01/2023 07:00,Juventus Turin,Tyson,S.C Freiburg,General,0,2,ENDED
+15/01/2023 07:00,FC Barcelona,Rafa,Ajax Amsterdam,tommy,3,1,ENDED
+15/01/2023 06:30,Ajax Amsterdam,Nasmi,S.C Freiburg,Mars,1,3,ENDED
+15/01/2023 06:30,FC Barcelona,Ray,Manchester United,Cliff,3,4,ENDED
+15/01/2023 06:15,FC Barcelona,Ray,S.C Freiburg,Mars,2,1,ENDED
+15/01/2023 06:15,Juventus Turin,Nazario,Manchester United,Cliff,0,2,ENDED
+15/01/2023 06:00,Juventus Turin,Nazario,Ajax Amsterdam,Nasmi,4,1,ENDED
+15/01/2023 06:00,S.C Freiburg,Mars,Manchester United,Cliff,1,0,ENDED
+15/01/2023 05:45,Juventus Turin,Nazario,FC Barcelona,Ray,3,1,ENDED
+15/01/2023 05:45,Ajax Amsterdam,Nasmi,Manchester United,Cliff,0,0,ENDED
+15/01/2023 05:30,S.C Freiburg,Mars,Juventus Turin,Nazario,2,4,ENDED
+15/01/2023 05:30,Ajax Amsterdam,Nasmi,FC Barcelona,Ray,1,3,ENDED
+15/01/2023 05:15,S.C Freiburg,Mars,Ajax Amsterdam,Nasmi,1,2,ENDED
+15/01/2023 05:15,Manchester United,Cliff,FC Barcelona,Ray,1,1,ENDED
+15/01/2023 05:00,S.C Freiburg,Mars,FC Barcelona,Ray,0,3,ENDED
+15/01/2023 05:00,Manchester United,Cliff,Juventus Turin,Nazario,0,2,ENDED
+15/01/2023 04:45,Ajax Amsterdam,Nasmi,Juventus Turin,Nazario,3,0,ENDED
+15/01/2023 04:45,Manchester United,Cliff,S.C Freiburg,Mars,0,1,ENDED
+15/01/2023 04:30,FC Barcelona,Ray,Juventus Turin,Nazario,3,4,ENDED
+15/01/2023 04:30,Manchester United,Cliff,Ajax Amsterdam,Nasmi,4,2,ENDED
+15/01/2023 04:15,Juventus Turin,Nazario,S.C Freiburg,Mars,1,3,ENDED
+15/01/2023 04:15,FC Barcelona,Ray,Ajax Amsterdam,Nasmi,3,0,ENDED
+15/01/2023 04:00,Tottenham,Nasmi,Manchester United,Mars,1,1,ENDED
+15/01/2023 04:00,Arsenal,Ray,Newcastle Utd,Cliff,0,1,ENDED
+15/01/2023 03:45,Arsenal,Ray,Manchester United,Mars,2,3,ENDED
+15/01/2023 03:45,Manchester City,Nazario,Newcastle Utd,Cliff,0,3,ENDED
+15/01/2023 03:30,Manchester City,Nazario,Tottenham,Nasmi,3,2,ENDED
+15/01/2023 03:30,Manchester United,Mars,Newcastle Utd,Cliff,0,0,ENDED
+15/01/2023 03:15,Manchester City,Nazario,Arsenal,Ray,2,4,ENDED
+15/01/2023 03:15,Tottenham,Nasmi,Newcastle Utd,Cliff,0,0,ENDED
+15/01/2023 03:00,Manchester United,Mars,Manchester City,Nazario,3,1,ENDED
+15/01/2023 03:00,Tottenham,Nasmi,Arsenal,Ray,3,2,ENDED
+15/01/2023 02:30,Manchester United,Mars,Tottenham,Nasmi,4,3,ENDED
+15/01/2023 02:30,Newcastle Utd,Cliff,Arsenal,Ray,2,2,ENDED
+15/01/2023 02:15,Manchester United,Mars,Arsenal,Ray,4,3,ENDED
+15/01/2023 02:15,Newcastle Utd,Cliff,Manchester City,Nazario,4,4,ENDED
+15/01/2023 02:00,Tottenham,Nasmi,Manchester City,Nazario,0,2,ENDED
+15/01/2023 02:00,Newcastle Utd,Cliff,Manchester United,Mars,3,2,ENDED
+15/01/2023 01:45,Arsenal,Ray,Manchester City,Nazario,1,3,ENDED
+15/01/2023 01:45,Newcastle Utd,Cliff,Tottenham,Nasmi,1,1,ENDED
+15/01/2023 01:30,Manchester City,Nazario,Manchester United,Mars,3,4,ENDED
+15/01/2023 01:30,Arsenal,Ray,Tottenham,Nasmi,2,0,ENDED
+15/01/2023 01:15,Bayern München,Nasmi,Real Madrid,Mars,2,1,ENDED
+15/01/2023 01:15,Liverpool,Ray,Manchester City,Cliff,4,1,ENDED
+15/01/2023 01:00,Liverpool,Ray,Real Madrid,Mars,3,2,ENDED
+15/01/2023 01:00,PSG,Nazario,Manchester City,Cliff,5,5,ENDED
+15/01/2023 00:45,PSG,Nazario,Bayern München,Nasmi,4,1,ENDED
+15/01/2023 00:45,Real Madrid,Mars,Manchester City,Cliff,1,2,ENDED
+15/01/2023 00:30,PSG,Nazario,Liverpool,Ray,1,2,ENDED
+15/01/2023 00:30,Bayern München,Nasmi,Manchester City,Cliff,3,2,ENDED
+15/01/2023 00:15,Real Madrid,Mars,PSG,Nazario,2,3,ENDED
+15/01/2023 00:15,Bayern München,Nasmi,Liverpool,Ray,4,2,ENDED
+15/01/2023 00:00,Real Madrid,Mars,Bayern München,Nasmi,1,1,ENDED
+15/01/2023 00:00,Manchester City,Cliff,Liverpool,Ray,3,1,ENDED

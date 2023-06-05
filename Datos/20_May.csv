@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+20/05/2023 23:45,Fenerbahce Istanbul,Gorilla,Leverkusen,aibothard,0,1,ENDED
+20/05/2023 23:45,Sevilla,General,Juventus Turin,Krouks,3,4,ENDED
+20/05/2023 23:30,Fenerbahce Istanbul,Gorilla,Manchester United,Spencer,6,5,ENDED
+20/05/2023 23:30,Leverkusen,aibothard,Juventus Turin,Krouks,4,3,ENDED
+20/05/2023 23:15,Sevilla,General,Fenerbahce Istanbul,Gorilla,2,6,ENDED
+20/05/2023 23:15,Leverkusen,aibothard,Manchester United,Spencer,1,5,ENDED
+20/05/2023 23:00,Sevilla,General,Leverkusen,aibothard,3,2,ENDED
+20/05/2023 23:00,Juventus Turin,Krouks,Manchester United,Spencer,4,4,ENDED
+20/05/2023 22:45,Sevilla,General,Manchester United,Spencer,2,3,ENDED
+20/05/2023 22:45,Juventus Turin,Krouks,Fenerbahce Istanbul,Gorilla,2,1,ENDED
+20/05/2023 22:30,Leverkusen,aibothard,Fenerbahce Istanbul,Gorilla,3,4,ENDED
+20/05/2023 22:30,Juventus Turin,Krouks,Sevilla,General,1,3,ENDED
+20/05/2023 22:15,Manchester United,Spencer,Fenerbahce Istanbul,Gorilla,5,3,ENDED
+20/05/2023 22:15,Juventus Turin,Krouks,Leverkusen,aibothard,2,4,ENDED
+20/05/2023 22:00,Fenerbahce Istanbul,Gorilla,Sevilla,General,1,4,ENDED
+20/05/2023 22:00,Manchester United,Spencer,Leverkusen,aibothard,2,1,ENDED
+20/05/2023 21:30,Leverkusen,Cantona,Sevilla,Nazario,2,3,ENDED
+20/05/2023 21:30,Manchester United,Ragnar,Juventus Turin,Nio,6,2,ENDED
+20/05/2023 21:15,Manchester United,Ragnar,Sevilla,Nazario,5,1,ENDED
+20/05/2023 21:15,Fenerbahce Istanbul,Mad,Juventus Turin,Nio,2,4,ENDED
+20/05/2023 21:00,Fenerbahce Istanbul,Mad,Leverkusen,Cantona,6,4,ENDED
+20/05/2023 21:00,Sevilla,Nazario,Juventus Turin,Nio,2,2,ENDED
+20/05/2023 20:45,Fenerbahce Istanbul,Mad,Manchester United,Ragnar,2,6,ENDED
+20/05/2023 20:45,Leverkusen,Cantona,Juventus Turin,Nio,2,6,ENDED
+20/05/2023 20:30,Sevilla,Nazario,Fenerbahce Istanbul,Mad,2,1,ENDED
+20/05/2023 20:30,Leverkusen,Cantona,Manchester United,Ragnar,3,3,ENDED
+20/05/2023 20:15,Sevilla,Nazario,Leverkusen,Cantona,3,3,ENDED
+20/05/2023 20:15,Juventus Turin,Nio,Manchester United,Ragnar,2,2,ENDED
+20/05/2023 20:00,Sevilla,Nazario,Manchester United,Ragnar,5,2,ENDED
+20/05/2023 20:00,Juventus Turin,Nio,Fenerbahce Istanbul,Mad,3,4,ENDED
+20/05/2023 19:45,Leverkusen,Cantona,Fenerbahce Istanbul,Mad,1,0,ENDED
+20/05/2023 19:45,Juventus Turin,Nio,Sevilla,Nazario,4,2,ENDED
+20/05/2023 19:30,Manchester United,Ragnar,Fenerbahce Istanbul,Mad,1,4,ENDED
+20/05/2023 19:30,Juventus Turin,Nio,Leverkusen,Cantona,1,3,ENDED
+20/05/2023 19:15,Fenerbahce Istanbul,Mad,Sevilla,Nazario,2,2,ENDED
+20/05/2023 19:15,Manchester United,Ragnar,Leverkusen,Cantona,1,0,ENDED
+20/05/2023 19:00,Juventus Turin,Cantona,Lazio,Nazario,5,1,ENDED
+20/05/2023 19:00,Roma,Ragnar,AC Milan,Nio,3,2,ENDED
+20/05/2023 18:45,Roma,Ragnar,Lazio,Nazario,3,2,ENDED
+20/05/2023 18:45,SSC Napoli,Mad,AC Milan,Nio,4,2,ENDED
+20/05/2023 18:30,SSC Napoli,Mad,Juventus Turin,Cantona,2,3,ENDED
+20/05/2023 18:30,Lazio,Nazario,AC Milan,Nio,1,2,ENDED
+20/05/2023 18:15,SSC Napoli,Mad,Roma,Ragnar,3,4,ENDED
+20/05/2023 18:15,Juventus Turin,Cantona,AC Milan,Nio,1,6,ENDED
+20/05/2023 18:00,Lazio,Nazario,SSC Napoli,Mad,1,0,ENDED
+20/05/2023 18:00,Juventus Turin,Cantona,Roma,Ragnar,3,3,ENDED
+20/05/2023 17:30,Lazio,Nazario,Juventus Turin,Cantona,1,4,ENDED
+20/05/2023 17:30,AC Milan,Nio,Roma,Ragnar,4,3,ENDED
+20/05/2023 17:15,Lazio,Nazario,Roma,Ragnar,3,2,ENDED
+20/05/2023 17:15,AC Milan,Nio,SSC Napoli,Mad,5,4,ENDED
+20/05/2023 17:00,Juventus Turin,Cantona,SSC Napoli,Mad,1,0,ENDED
+20/05/2023 17:00,AC Milan,Nio,Lazio,Nazario,5,1,ENDED
+20/05/2023 16:45,Roma,Ragnar,SSC Napoli,Mad,4,3,ENDED
+20/05/2023 16:45,AC Milan,Nio,Juventus Turin,Cantona,4,5,ENDED
+20/05/2023 16:30,SSC Napoli,Mad,Lazio,Nazario,3,2,ENDED
+20/05/2023 16:30,Roma,Ragnar,Juventus Turin,Cantona,2,2,ENDED
+20/05/2023 16:15,Manchester City,Cantona,Tottenham,Nazario,1,2,ENDED
+20/05/2023 16:15,Newcastle Utd,Ragnar,Arsenal,Nio,2,2,ENDED
+20/05/2023 16:00,Newcastle Utd,Ragnar,Tottenham,Nazario,2,2,ENDED
+20/05/2023 16:00,Manchester United,Mad,Arsenal,Nio,0,1,ENDED
+20/05/2023 15:45,Manchester United,Mad,Manchester City,Cantona,0,2,ENDED
+20/05/2023 15:45,Tottenham,Nazario,Arsenal,Nio,1,0,ENDED
+20/05/2023 15:30,Manchester United,Mad,Newcastle Utd,Ragnar,1,2,ENDED
+20/05/2023 15:30,Manchester City,Cantona,Arsenal,Nio,1,3,ENDED
+20/05/2023 15:15,Tottenham,Nazario,Manchester United,Mad,4,4,ENDED
+20/05/2023 15:15,Manchester City,Cantona,Newcastle Utd,Ragnar,2,1,ENDED
+20/05/2023 15:00,Tottenham,Nazario,Manchester City,Cantona,2,4,ENDED
+20/05/2023 15:00,Arsenal,Nio,Newcastle Utd,Ragnar,3,1,ENDED
+20/05/2023 14:45,Tottenham,Nazario,Newcastle Utd,Ragnar,3,6,ENDED
+20/05/2023 14:45,Arsenal,Nio,Manchester United,Mad,3,4,ENDED
+20/05/2023 14:30,Manchester City,Cantona,Manchester United,Mad,3,0,ENDED
+20/05/2023 14:30,Arsenal,Nio,Tottenham,Nazario,1,1,ENDED
+20/05/2023 14:15,Newcastle Utd,Ragnar,Manchester United,Mad,1,1,ENDED
+20/05/2023 14:15,Arsenal,Nio,Manchester City,Cantona,3,0,ENDED
+20/05/2023 14:00,Manchester United,Mad,Tottenham,Nazario,2,1,ENDED
+20/05/2023 14:00,Newcastle Utd,Ragnar,Manchester City,Cantona,0,2,ENDED
+20/05/2023 13:30,AC Milan,Lio,Manchester City,Rafa,2,3,ENDED
+20/05/2023 13:30,Real Madrid,Spex,Inter Milan,Nero,6,2,ENDED
+20/05/2023 13:15,Real Madrid,Spex,Manchester City,Rafa,3,3,ENDED
+20/05/2023 13:15,Bayern München,tommy,Inter Milan,Nero,7,4,ENDED
+20/05/2023 13:00,Bayern München,tommy,AC Milan,Lio,2,3,ENDED
+20/05/2023 13:00,Manchester City,Rafa,Inter Milan,Nero,3,3,ENDED
+20/05/2023 12:45,Bayern München,tommy,Real Madrid,Spex,2,1,ENDED
+20/05/2023 12:45,AC Milan,Lio,Inter Milan,Nero,3,2,ENDED
+20/05/2023 12:30,Manchester City,Rafa,Bayern München,tommy,5,4,ENDED
+20/05/2023 12:30,AC Milan,Lio,Real Madrid,Spex,3,3,ENDED
+20/05/2023 12:15,Manchester City,Rafa,AC Milan,Lio,2,3,ENDED
+20/05/2023 12:15,Inter Milan,Nero,Real Madrid,Spex,2,6,ENDED
+20/05/2023 12:00,Manchester City,Rafa,Real Madrid,Spex,4,5,ENDED
+20/05/2023 12:00,Inter Milan,Nero,Bayern München,tommy,4,3,ENDED
+20/05/2023 11:45,AC Milan,Lio,Bayern München,tommy,4,3,ENDED
+20/05/2023 11:45,Inter Milan,Nero,Manchester City,Rafa,2,5,ENDED
+20/05/2023 11:30,Real Madrid,Spex,Bayern München,tommy,7,3,ENDED
+20/05/2023 11:30,Inter Milan,Nero,AC Milan,Lio,1,3,ENDED
+20/05/2023 11:15,Bayern München,tommy,Manchester City,Rafa,0,4,ENDED
+20/05/2023 11:15,Real Madrid,Spex,AC Milan,Lio,5,3,ENDED
+20/05/2023 11:00,Borussia Dortmund,Lio,Union Berlin,Rafa,1,2,ENDED
+20/05/2023 11:00,Bayern München,Spex,Leipzig,Nero,6,2,ENDED
+20/05/2023 10:45,Bayern München,Spex,Union Berlin,Rafa,2,2,ENDED
+20/05/2023 10:45,S.C Freiburg,tommy,Leipzig,Nero,4,4,ENDED
+20/05/2023 10:30,S.C Freiburg,tommy,Borussia Dortmund,Lio,3,2,ENDED
+20/05/2023 10:30,Union Berlin,Rafa,Leipzig,Nero,2,3,ENDED
+20/05/2023 10:15,S.C Freiburg,tommy,Bayern München,Spex,2,5,ENDED
+20/05/2023 10:15,Borussia Dortmund,Lio,Leipzig,Nero,2,1,ENDED
+20/05/2023 10:00,Union Berlin,Rafa,S.C Freiburg,tommy,1,2,ENDED
+20/05/2023 10:00,Borussia Dortmund,Lio,Bayern München,Spex,3,7,ENDED
+20/05/2023 09:30,Union Berlin,Rafa,Borussia Dortmund,Lio,2,2,ENDED
+20/05/2023 09:30,Leipzig,Nero,Bayern München,Spex,2,1,ENDED
+20/05/2023 09:15,Union Berlin,Rafa,Bayern München,Spex,3,2,ENDED
+20/05/2023 09:15,Leipzig,Nero,S.C Freiburg,tommy,0,3,ENDED
+20/05/2023 09:00,Borussia Dortmund,Lio,S.C Freiburg,tommy,3,1,ENDED
+20/05/2023 09:00,Leipzig,Nero,Union Berlin,Rafa,2,5,ENDED
+20/05/2023 08:45,Bayern München,Spex,S.C Freiburg,tommy,4,2,ENDED
+20/05/2023 08:45,Leipzig,Nero,Borussia Dortmund,Lio,5,1,ENDED
+20/05/2023 08:30,S.C Freiburg,tommy,Union Berlin,Rafa,3,1,ENDED
+20/05/2023 08:30,Bayern München,Spex,Borussia Dortmund,Lio,3,6,ENDED
+20/05/2023 08:15,Real Betis,Lio,Real Sociedad,Rafa,2,2,ENDED
+20/05/2023 08:15,Atletico Madrid,Spex,FC Barcelona,Nero,2,3,ENDED
+20/05/2023 08:00,Atletico Madrid,Spex,Real Sociedad,Rafa,1,1,ENDED
+20/05/2023 08:00,Real Madrid,tommy,FC Barcelona,Nero,5,2,ENDED
+20/05/2023 07:45,Real Madrid,tommy,Real Betis,Lio,4,3,ENDED
+20/05/2023 07:45,Real Sociedad,Rafa,FC Barcelona,Nero,1,4,ENDED
+20/05/2023 07:30,Real Madrid,tommy,Atletico Madrid,Spex,3,2,ENDED
+20/05/2023 07:30,Real Betis,Lio,FC Barcelona,Nero,2,2,ENDED
+20/05/2023 07:15,Real Sociedad,Rafa,Real Madrid,tommy,2,2,ENDED
+20/05/2023 07:15,Real Betis,Lio,Atletico Madrid,Spex,1,6,ENDED
+20/05/2023 07:00,Real Sociedad,Rafa,Real Betis,Lio,1,3,ENDED
+20/05/2023 07:00,FC Barcelona,Nero,Atletico Madrid,Spex,0,4,ENDED
+20/05/2023 06:45,Real Sociedad,Rafa,Atletico Madrid,Spex,2,2,ENDED
+20/05/2023 06:45,FC Barcelona,Nero,Real Madrid,tommy,3,0,ENDED
+20/05/2023 06:30,Real Betis,Lio,Real Madrid,tommy,2,3,ENDED
+20/05/2023 06:30,FC Barcelona,Nero,Real Sociedad,Rafa,2,4,ENDED
+20/05/2023 06:15,Atletico Madrid,Spex,Real Madrid,tommy,2,2,ENDED
+20/05/2023 06:15,FC Barcelona,Nero,Real Betis,Lio,2,0,ENDED
+20/05/2023 06:00,Real Madrid,tommy,Real Sociedad,Rafa,2,2,ENDED
+20/05/2023 06:00,Atletico Madrid,Spex,Real Betis,Lio,4,2,ENDED
+20/05/2023 05:30,Manchester City,aibothard,Tottenham,General,1,0,ENDED
+20/05/2023 05:30,Newcastle Utd,Spencer,Arsenal,Krouks,6,1,ENDED
+20/05/2023 05:15,Newcastle Utd,Spencer,Tottenham,General,0,5,ENDED
+20/05/2023 05:15,Manchester United,Gorilla,Arsenal,Krouks,2,2,ENDED
+20/05/2023 05:00,Manchester United,Gorilla,Manchester City,aibothard,1,4,ENDED
+20/05/2023 05:00,Tottenham,General,Arsenal,Krouks,4,1,ENDED
+20/05/2023 04:45,Manchester United,Gorilla,Newcastle Utd,Spencer,4,1,ENDED
+20/05/2023 04:45,Manchester City,aibothard,Arsenal,Krouks,4,3,ENDED
+20/05/2023 04:30,Tottenham,General,Manchester United,Gorilla,2,5,ENDED
+20/05/2023 04:30,Manchester City,aibothard,Newcastle Utd,Spencer,2,4,ENDED
+20/05/2023 04:15,Tottenham,General,Manchester City,aibothard,2,3,ENDED
+20/05/2023 04:15,Arsenal,Krouks,Newcastle Utd,Spencer,3,5,ENDED
+20/05/2023 04:00,Tottenham,General,Newcastle Utd,Spencer,6,2,ENDED
+20/05/2023 04:00,Arsenal,Krouks,Manchester United,Gorilla,2,4,ENDED
+20/05/2023 03:45,Manchester City,aibothard,Manchester United,Gorilla,2,3,ENDED
+20/05/2023 03:45,Arsenal,Krouks,Tottenham,General,2,2,ENDED
+20/05/2023 03:30,Newcastle Utd,Spencer,Manchester United,Gorilla,4,1,ENDED
+20/05/2023 03:30,Arsenal,Krouks,Manchester City,aibothard,5,2,ENDED
+20/05/2023 03:15,Manchester United,Gorilla,Tottenham,General,5,2,ENDED
+20/05/2023 03:15,Newcastle Utd,Spencer,Manchester City,aibothard,2,4,ENDED
+20/05/2023 03:00,Istanbul Basaksehir,aibothard,Trabzonspor,General,1,2,ENDED
+20/05/2023 03:00,Fenerbahce Istanbul,Spencer,Galatasaray,Krouks,2,3,ENDED
+20/05/2023 02:45,Fenerbahce Istanbul,Spencer,Trabzonspor,General,2,2,ENDED
+20/05/2023 02:45,Besiktas,Gorilla,Galatasaray,Krouks,3,4,ENDED
+20/05/2023 02:30,Besiktas,Gorilla,Istanbul Basaksehir,aibothard,4,4,ENDED
+20/05/2023 02:30,Trabzonspor,General,Galatasaray,Krouks,4,3,ENDED
+20/05/2023 02:15,Besiktas,Gorilla,Fenerbahce Istanbul,Spencer,2,3,ENDED
+20/05/2023 02:15,Istanbul Basaksehir,aibothard,Galatasaray,Krouks,2,2,ENDED
+20/05/2023 02:00,Trabzonspor,General,Besiktas,Gorilla,4,2,ENDED
+20/05/2023 02:00,Istanbul Basaksehir,aibothard,Fenerbahce Istanbul,Spencer,1,1,ENDED
+20/05/2023 01:30,Trabzonspor,General,Istanbul Basaksehir,aibothard,2,3,ENDED
+20/05/2023 01:30,Galatasaray,Krouks,Fenerbahce Istanbul,Spencer,1,3,ENDED
+20/05/2023 01:15,Trabzonspor,General,Fenerbahce Istanbul,Spencer,6,2,ENDED
+20/05/2023 01:15,Galatasaray,Krouks,Besiktas,Gorilla,4,3,ENDED
+20/05/2023 01:00,Istanbul Basaksehir,aibothard,Besiktas,Gorilla,2,4,ENDED
+20/05/2023 01:00,Galatasaray,Krouks,Trabzonspor,General,1,4,ENDED
+20/05/2023 00:45,Fenerbahce Istanbul,Spencer,Besiktas,Gorilla,3,1,ENDED
+20/05/2023 00:45,Galatasaray,Krouks,Istanbul Basaksehir,aibothard,3,5,ENDED
+20/05/2023 00:30,Besiktas,Gorilla,Trabzonspor,General,7,4,ENDED
+20/05/2023 00:30,Fenerbahce Istanbul,Spencer,Istanbul Basaksehir,aibothard,0,3,ENDED
+20/05/2023 00:15,Leverkusen,aibothard,Sevilla,General,0,1,ENDED
+20/05/2023 00:15,Manchester United,Spencer,Juventus Turin,Krouks,4,3,ENDED
+20/05/2023 00:00,Manchester United,Spencer,Sevilla,General,3,2,ENDED
+20/05/2023 00:00,Fenerbahce Istanbul,Gorilla,Juventus Turin,Krouks,4,3,ENDED

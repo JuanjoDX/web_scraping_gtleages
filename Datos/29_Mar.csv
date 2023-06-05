@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+29/03/2023 23:45,Tottenham,Krouks,Arsenal,Nio,5,3,ENDED
+29/03/2023 23:45,Manchester City,Cliff,Manchester United,Pipis,3,3,ENDED
+29/03/2023 23:30,Tottenham,Krouks,Newcastle Utd,Votepeace,5,3,ENDED
+29/03/2023 23:30,Arsenal,Nio,Manchester United,Pipis,2,4,ENDED
+29/03/2023 23:15,Manchester City,Cliff,Tottenham,Krouks,4,4,ENDED
+29/03/2023 23:15,Arsenal,Nio,Newcastle Utd,Votepeace,4,2,ENDED
+29/03/2023 23:00,Manchester City,Cliff,Arsenal,Nio,3,4,ENDED
+29/03/2023 23:00,Manchester United,Pipis,Newcastle Utd,Votepeace,2,1,ENDED
+29/03/2023 22:45,Manchester City,Cliff,Newcastle Utd,Votepeace,4,4,ENDED
+29/03/2023 22:45,Manchester United,Pipis,Tottenham,Krouks,2,4,ENDED
+29/03/2023 22:30,Arsenal,Nio,Tottenham,Krouks,1,3,ENDED
+29/03/2023 22:30,Manchester United,Pipis,Manchester City,Cliff,6,3,ENDED
+29/03/2023 22:15,Newcastle Utd,Votepeace,Tottenham,Krouks,4,2,ENDED
+29/03/2023 22:15,Manchester United,Pipis,Arsenal,Nio,5,3,ENDED
+29/03/2023 22:00,Tottenham,Krouks,Manchester City,Cliff,3,2,ENDED
+29/03/2023 22:00,Newcastle Utd,Votepeace,Arsenal,Nio,4,2,ENDED
+29/03/2023 21:30,Real Madrid,Spex,Bayern München,Lio,5,3,ENDED
+29/03/2023 21:30,SSC Napoli,Rafa,Manchester City,tommy,3,5,ENDED
+29/03/2023 21:15,SSC Napoli,Rafa,Bayern München,Lio,2,3,ENDED
+29/03/2023 21:15,Chelsea,val,Manchester City,tommy,2,4,ENDED
+29/03/2023 21:00,Chelsea,val,Real Madrid,Spex,1,2,ENDED
+29/03/2023 21:00,Bayern München,Lio,Manchester City,tommy,4,3,ENDED
+29/03/2023 20:45,Chelsea,val,SSC Napoli,Rafa,3,2,ENDED
+29/03/2023 20:45,Real Madrid,Spex,Manchester City,tommy,4,1,ENDED
+29/03/2023 20:30,Bayern München,Lio,Chelsea,val,4,3,ENDED
+29/03/2023 20:30,Real Madrid,Spex,SSC Napoli,Rafa,1,1,ENDED
+29/03/2023 20:15,Bayern München,Lio,Real Madrid,Spex,2,4,ENDED
+29/03/2023 20:15,Manchester City,tommy,SSC Napoli,Rafa,2,2,ENDED
+29/03/2023 20:00,Bayern München,Lio,SSC Napoli,Rafa,1,3,ENDED
+29/03/2023 20:00,Manchester City,tommy,Chelsea,val,2,6,ENDED
+29/03/2023 19:45,Real Madrid,Spex,Chelsea,val,1,2,ENDED
+29/03/2023 19:45,Manchester City,tommy,Bayern München,Lio,5,1,ENDED
+29/03/2023 19:30,SSC Napoli,Rafa,Chelsea,val,3,3,ENDED
+29/03/2023 19:30,Manchester City,tommy,Real Madrid,Spex,2,5,ENDED
+29/03/2023 19:15,Chelsea,val,Bayern München,Lio,1,5,ENDED
+29/03/2023 19:15,SSC Napoli,Rafa,Real Madrid,Spex,2,4,ENDED
+29/03/2023 19:00,Leipzig,Spex,Borussia Dortmund,Lio,6,2,ENDED
+29/03/2023 19:00,Union Berlin,Rafa,S.C Freiburg,tommy,6,2,ENDED
+29/03/2023 18:45,Union Berlin,Rafa,Borussia Dortmund,Lio,5,1,ENDED
+29/03/2023 18:45,Bayern München,val,S.C Freiburg,tommy,4,2,ENDED
+29/03/2023 18:30,Bayern München,val,Leipzig,Spex,1,3,ENDED
+29/03/2023 18:30,Borussia Dortmund,Lio,S.C Freiburg,tommy,4,3,ENDED
+29/03/2023 18:15,Bayern München,val,Union Berlin,Rafa,2,3,ENDED
+29/03/2023 18:15,Leipzig,Spex,S.C Freiburg,tommy,6,1,ENDED
+29/03/2023 18:00,Borussia Dortmund,Lio,Bayern München,val,2,3,ENDED
+29/03/2023 18:00,Leipzig,Spex,Union Berlin,Rafa,1,2,ENDED
+29/03/2023 17:30,Borussia Dortmund,Lio,Leipzig,Spex,3,4,ENDED
+29/03/2023 17:30,S.C Freiburg,tommy,Union Berlin,Rafa,3,3,ENDED
+29/03/2023 17:15,Borussia Dortmund,Lio,Union Berlin,Rafa,1,2,ENDED
+29/03/2023 17:15,S.C Freiburg,tommy,Bayern München,val,4,4,ENDED
+29/03/2023 17:00,Leipzig,Spex,Bayern München,val,2,1,ENDED
+29/03/2023 17:00,S.C Freiburg,tommy,Borussia Dortmund,Lio,2,2,ENDED
+29/03/2023 16:45,Union Berlin,Rafa,Bayern München,val,4,7,ENDED
+29/03/2023 16:45,S.C Freiburg,tommy,Leipzig,Spex,3,0,ENDED
+29/03/2023 16:30,Bayern München,val,Borussia Dortmund,Lio,2,4,ENDED
+29/03/2023 16:30,Union Berlin,Rafa,Leipzig,Spex,2,2,ENDED
+29/03/2023 16:15,Arsenal,Spex,Manchester City,Lio,5,1,ENDED
+29/03/2023 16:15,Newcastle Utd,Rafa,Manchester United,tommy,4,3,ENDED
+29/03/2023 16:00,Newcastle Utd,Rafa,Manchester City,Lio,4,2,ENDED
+29/03/2023 16:00,Tottenham,val,Manchester United,tommy,4,2,ENDED
+29/03/2023 15:45,Tottenham,val,Arsenal,Spex,1,2,ENDED
+29/03/2023 15:45,Manchester City,Lio,Manchester United,tommy,1,3,ENDED
+29/03/2023 15:30,Tottenham,val,Newcastle Utd,Rafa,3,3,ENDED
+29/03/2023 15:30,Arsenal,Spex,Manchester United,tommy,2,1,ENDED
+29/03/2023 15:15,Manchester City,Lio,Tottenham,val,3,3,ENDED
+29/03/2023 15:15,Arsenal,Spex,Newcastle Utd,Rafa,5,3,ENDED
+29/03/2023 15:00,Manchester City,Lio,Arsenal,Spex,3,5,ENDED
+29/03/2023 15:00,Manchester United,tommy,Newcastle Utd,Rafa,0,0,ENDED
+29/03/2023 14:45,Manchester City,Lio,Newcastle Utd,Rafa,5,3,ENDED
+29/03/2023 14:45,Manchester United,tommy,Tottenham,val,1,1,ENDED
+29/03/2023 14:30,Arsenal,Spex,Tottenham,val,2,2,ENDED
+29/03/2023 14:30,Manchester United,tommy,Manchester City,Lio,5,3,ENDED
+29/03/2023 14:15,Newcastle Utd,Rafa,Tottenham,val,1,1,ENDED
+29/03/2023 14:15,Manchester United,tommy,Arsenal,Spex,1,5,ENDED
+29/03/2023 14:00,Tottenham,val,Manchester City,Lio,4,2,ENDED
+29/03/2023 14:00,Newcastle Utd,Rafa,Arsenal,Spex,1,2,ENDED
+29/03/2023 13:30,Bayern München,Nazario,Benfica Lisbon,Nasmi,,,CANCELLED
+29/03/2023 13:30,Real Madrid,Mad,SSC Napoli,Cantona,,,CANCELLED
+29/03/2023 13:15,Real Madrid,Mad,Benfica Lisbon,Nasmi,6,5,ENDED
+29/03/2023 13:15,Manchester City,Mars,SSC Napoli,Cantona,3,3,ENDED
+29/03/2023 13:00,Manchester City,Mars,Bayern München,Nazario,1,1,ENDED
+29/03/2023 13:00,Benfica Lisbon,Nasmi,SSC Napoli,Cantona,3,6,ENDED
+29/03/2023 12:45,Manchester City,Mars,Real Madrid,Mad,2,5,ENDED
+29/03/2023 12:45,Bayern München,Nazario,SSC Napoli,Cantona,3,2,ENDED
+29/03/2023 12:30,Benfica Lisbon,Nasmi,Manchester City,Mars,4,3,ENDED
+29/03/2023 12:30,Bayern München,Nazario,Real Madrid,Mad,3,4,ENDED
+29/03/2023 12:15,Benfica Lisbon,Nasmi,Bayern München,Nazario,3,4,ENDED
+29/03/2023 12:15,SSC Napoli,Cantona,Real Madrid,Mad,1,2,ENDED
+29/03/2023 12:00,Benfica Lisbon,Nasmi,Real Madrid,Mad,5,5,ENDED
+29/03/2023 12:00,SSC Napoli,Cantona,Manchester City,Mars,3,2,ENDED
+29/03/2023 11:45,Bayern München,Nazario,Manchester City,Mars,5,4,ENDED
+29/03/2023 11:45,SSC Napoli,Cantona,Benfica Lisbon,Nasmi,5,1,ENDED
+29/03/2023 11:30,Real Madrid,Mad,Manchester City,Mars,3,4,ENDED
+29/03/2023 11:30,SSC Napoli,Cantona,Bayern München,Nazario,3,6,ENDED
+29/03/2023 11:15,Manchester City,Mars,Benfica Lisbon,Nasmi,1,1,ENDED
+29/03/2023 11:15,Real Madrid,Mad,Bayern München,Nazario,2,0,ENDED
+29/03/2023 11:00,FC Barcelona,Nazario,Real Sociedad,Nasmi,6,3,ENDED
+29/03/2023 11:00,Real Betis,Mad,Real Madrid,Cantona,2,2,ENDED
+29/03/2023 10:45,Real Betis,Mad,Real Sociedad,Nasmi,5,1,ENDED
+29/03/2023 10:45,Atletico Madrid,Mars,Real Madrid,Cantona,5,4,ENDED
+29/03/2023 10:30,Atletico Madrid,Mars,FC Barcelona,Nazario,3,3,ENDED
+29/03/2023 10:30,Real Sociedad,Nasmi,Real Madrid,Cantona,3,2,ENDED
+29/03/2023 10:15,Atletico Madrid,Mars,Real Betis,Mad,2,3,ENDED
+29/03/2023 10:15,FC Barcelona,Nazario,Real Madrid,Cantona,2,2,ENDED
+29/03/2023 10:00,Real Sociedad,Nasmi,Atletico Madrid,Mars,2,0,ENDED
+29/03/2023 10:00,FC Barcelona,Nazario,Real Betis,Mad,3,3,ENDED
+29/03/2023 09:30,Real Sociedad,Nasmi,FC Barcelona,Nazario,1,5,ENDED
+29/03/2023 09:30,Real Madrid,Cantona,Real Betis,Mad,0,4,ENDED
+29/03/2023 09:15,Real Sociedad,Nasmi,Real Betis,Mad,3,4,ENDED
+29/03/2023 09:15,Real Madrid,Cantona,Atletico Madrid,Mars,1,3,ENDED
+29/03/2023 09:00,FC Barcelona,Nazario,Atletico Madrid,Mars,0,1,ENDED
+29/03/2023 09:00,Real Madrid,Cantona,Real Sociedad,Nasmi,4,3,ENDED
+29/03/2023 08:45,Real Betis,Mad,Atletico Madrid,Mars,4,6,ENDED
+29/03/2023 08:45,Real Madrid,Cantona,FC Barcelona,Nazario,2,5,ENDED
+29/03/2023 08:30,Atletico Madrid,Mars,Real Sociedad,Nasmi,3,2,ENDED
+29/03/2023 08:30,Real Betis,Mad,FC Barcelona,Nazario,9,3,ENDED
+29/03/2023 08:15,Union Berlin,Nazario,Sevilla,Nasmi,7,1,ENDED
+29/03/2023 08:15,Sporting C.P,Mad,Roma,Cantona,2,3,ENDED
+29/03/2023 08:00,Sporting C.P,Mad,Sevilla,Nasmi,3,1,ENDED
+29/03/2023 08:00,Arsenal,Mars,Roma,Cantona,2,2,ENDED
+29/03/2023 07:45,Arsenal,Mars,Union Berlin,Nazario,1,2,ENDED
+29/03/2023 07:45,Sevilla,Nasmi,Roma,Cantona,1,5,ENDED
+29/03/2023 07:30,Arsenal,Mars,Sporting C.P,Mad,1,2,ENDED
+29/03/2023 07:30,Union Berlin,Nazario,Roma,Cantona,2,1,ENDED
+29/03/2023 07:15,Sevilla,Nasmi,Arsenal,Mars,2,4,ENDED
+29/03/2023 07:15,Union Berlin,Nazario,Sporting C.P,Mad,2,2,ENDED
+29/03/2023 07:00,Sevilla,Nasmi,Union Berlin,Nazario,2,7,ENDED
+29/03/2023 07:00,Roma,Cantona,Sporting C.P,Mad,2,0,ENDED
+29/03/2023 06:45,Sevilla,Nasmi,Sporting C.P,Mad,1,4,ENDED
+29/03/2023 06:45,Roma,Cantona,Arsenal,Mars,2,3,ENDED
+29/03/2023 06:30,Union Berlin,Nazario,Arsenal,Mars,0,0,ENDED
+29/03/2023 06:30,Roma,Cantona,Sevilla,Nasmi,5,1,ENDED
+29/03/2023 06:15,Sporting C.P,Mad,Arsenal,Mars,2,2,ENDED
+29/03/2023 06:15,Roma,Cantona,Union Berlin,Nazario,2,2,ENDED
+29/03/2023 06:00,Arsenal,Mars,Sevilla,Nasmi,4,4,ENDED
+29/03/2023 06:00,Sporting C.P,Mad,Union Berlin,Nazario,2,1,ENDED
+29/03/2023 05:30,OGC Nice,Nio,West Ham,Cliff,2,2,ENDED
+29/03/2023 05:30,Villarreal,Votepeace,Sivasspor,Pipis,3,2,ENDED
+29/03/2023 05:15,Villarreal,Votepeace,West Ham,Cliff,3,1,ENDED
+29/03/2023 05:15,Fiorentina,Krouks,Sivasspor,Pipis,1,2,ENDED
+29/03/2023 05:00,Fiorentina,Krouks,OGC Nice,Nio,2,6,ENDED
+29/03/2023 05:00,West Ham,Cliff,Sivasspor,Pipis,1,2,ENDED
+29/03/2023 04:45,Fiorentina,Krouks,Villarreal,Votepeace,4,3,ENDED
+29/03/2023 04:45,OGC Nice,Nio,Sivasspor,Pipis,4,2,ENDED
+29/03/2023 04:30,West Ham,Cliff,Fiorentina,Krouks,3,6,ENDED
+29/03/2023 04:30,OGC Nice,Nio,Villarreal,Votepeace,2,2,ENDED
+29/03/2023 04:15,West Ham,Cliff,OGC Nice,Nio,1,1,ENDED
+29/03/2023 04:15,Sivasspor,Pipis,Villarreal,Votepeace,3,3,ENDED
+29/03/2023 04:00,West Ham,Cliff,Villarreal,Votepeace,1,2,ENDED
+29/03/2023 04:00,Sivasspor,Pipis,Fiorentina,Krouks,3,6,ENDED
+29/03/2023 03:45,OGC Nice,Nio,Fiorentina,Krouks,3,6,ENDED
+29/03/2023 03:45,Sivasspor,Pipis,West Ham,Cliff,1,1,ENDED
+29/03/2023 03:30,Villarreal,Votepeace,Fiorentina,Krouks,4,3,ENDED
+29/03/2023 03:30,Sivasspor,Pipis,OGC Nice,Nio,8,2,ENDED
+29/03/2023 03:15,Fiorentina,Krouks,West Ham,Cliff,4,2,ENDED
+29/03/2023 03:15,Villarreal,Votepeace,OGC Nice,Nio,0,2,ENDED
+29/03/2023 03:00,Lazio,Nio,Inter Milan,Cliff,3,1,ENDED
+29/03/2023 03:00,SSC Napoli,Votepeace,AC Milan,Pipis,4,5,ENDED
+29/03/2023 02:45,SSC Napoli,Votepeace,Inter Milan,Cliff,4,6,ENDED
+29/03/2023 02:45,Roma,Krouks,AC Milan,Pipis,5,6,ENDED
+29/03/2023 02:30,Roma,Krouks,Lazio,Nio,5,1,ENDED
+29/03/2023 02:30,Inter Milan,Cliff,AC Milan,Pipis,3,5,ENDED
+29/03/2023 02:15,Roma,Krouks,SSC Napoli,Votepeace,2,6,ENDED
+29/03/2023 02:15,Lazio,Nio,AC Milan,Pipis,2,3,ENDED
+29/03/2023 02:00,Inter Milan,Cliff,Roma,Krouks,3,3,ENDED
+29/03/2023 02:00,Lazio,Nio,SSC Napoli,Votepeace,2,5,ENDED
+29/03/2023 01:30,Inter Milan,Cliff,Lazio,Nio,1,4,ENDED
+29/03/2023 01:30,AC Milan,Pipis,SSC Napoli,Votepeace,6,1,ENDED
+29/03/2023 01:15,Inter Milan,Cliff,SSC Napoli,Votepeace,1,5,ENDED
+29/03/2023 01:15,AC Milan,Pipis,Roma,Krouks,6,5,ENDED
+29/03/2023 01:00,Lazio,Nio,Roma,Krouks,6,5,ENDED
+29/03/2023 01:00,AC Milan,Pipis,Inter Milan,Cliff,6,1,ENDED
+29/03/2023 00:45,SSC Napoli,Votepeace,Roma,Krouks,3,7,ENDED
+29/03/2023 00:45,AC Milan,Pipis,Lazio,Nio,3,4,ENDED
+29/03/2023 00:30,Roma,Krouks,Inter Milan,Cliff,6,4,ENDED
+29/03/2023 00:30,SSC Napoli,Votepeace,Lazio,Nio,1,2,ENDED
+29/03/2023 00:15,Arsenal,Nio,Manchester City,Cliff,4,4,ENDED
+29/03/2023 00:15,Newcastle Utd,Votepeace,Manchester United,Pipis,2,2,ENDED
+29/03/2023 00:00,Newcastle Utd,Votepeace,Manchester City,Cliff,2,3,ENDED
+29/03/2023 00:00,Tottenham,Krouks,Manchester United,Pipis,4,6,ENDED

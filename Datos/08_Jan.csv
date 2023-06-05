@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+08/01/2023 23:45,AC Milan,JohnyBeGood,Benfica Lisbon,billiot,1,0,ENDED
+08/01/2023 23:45,Inter Milan,Moic,Leipzig,Cliff,0,2,ENDED
+08/01/2023 23:30,Eintracht Frankfurt,Krouks,Leipzig,Cliff,2,1,ENDED
+08/01/2023 23:30,Inter Milan,Moic,AC Milan,JohnyBeGood,0,2,ENDED
+08/01/2023 23:15,Benfica Lisbon,billiot,Leipzig,Cliff,2,2,ENDED
+08/01/2023 23:15,Inter Milan,Moic,Eintracht Frankfurt,Krouks,2,4,ENDED
+08/01/2023 23:00,Leipzig,Cliff,AC Milan,JohnyBeGood,1,0,ENDED
+08/01/2023 23:00,Benfica Lisbon,billiot,Eintracht Frankfurt,Krouks,1,4,ENDED
+08/01/2023 22:30,FC Porto,Lio,Tottenham,val,0,3,ENDED
+08/01/2023 22:30,Borussia Dortmund,Carnage,Chelsea,tommy,1,4,ENDED
+08/01/2023 22:15,Borussia Dortmund,Carnage,Tottenham,val,4,5,ENDED
+08/01/2023 22:15,SSC Napoli,Spex,Chelsea,tommy,3,2,ENDED
+08/01/2023 22:00,SSC Napoli,Spex,FC Porto,Lio,3,1,ENDED
+08/01/2023 22:00,Tottenham,val,Chelsea,tommy,2,1,ENDED
+08/01/2023 21:45,SSC Napoli,Spex,Borussia Dortmund,Carnage,3,5,ENDED
+08/01/2023 21:45,FC Porto,Lio,Chelsea,tommy,1,2,ENDED
+08/01/2023 21:30,Tottenham,val,SSC Napoli,Spex,1,2,ENDED
+08/01/2023 21:30,FC Porto,Lio,Borussia Dortmund,Carnage,1,1,ENDED
+08/01/2023 21:15,Tottenham,val,FC Porto,Lio,3,2,ENDED
+08/01/2023 21:15,Chelsea,tommy,Borussia Dortmund,Carnage,2,1,ENDED
+08/01/2023 21:00,Tottenham,val,Borussia Dortmund,Carnage,2,3,ENDED
+08/01/2023 21:00,Chelsea,tommy,SSC Napoli,Spex,3,2,ENDED
+08/01/2023 20:45,FC Porto,Lio,SSC Napoli,Spex,3,3,ENDED
+08/01/2023 20:45,Chelsea,tommy,Tottenham,val,3,2,ENDED
+08/01/2023 20:30,Borussia Dortmund,Carnage,SSC Napoli,Spex,3,4,ENDED
+08/01/2023 20:30,Chelsea,tommy,FC Porto,Lio,3,4,ENDED
+08/01/2023 20:15,SSC Napoli,Spex,Tottenham,val,1,2,ENDED
+08/01/2023 20:15,Borussia Dortmund,Carnage,FC Porto,Lio,3,1,ENDED
+08/01/2023 20:00,Leverkusen,Lio,Sevilla,val,1,1,ENDED
+08/01/2023 20:00,Fenerbahce Istanbul,Carnage,Roma,tommy,4,2,ENDED
+08/01/2023 19:45,Fenerbahce Istanbul,Carnage,Sevilla,val,4,2,ENDED
+08/01/2023 19:45,Arsenal,Spex,Roma,tommy,2,2,ENDED
+08/01/2023 19:30,Arsenal,Spex,Leverkusen,Lio,4,1,ENDED
+08/01/2023 19:30,Sevilla,val,Roma,tommy,2,3,ENDED
+08/01/2023 19:15,Arsenal,Spex,Fenerbahce Istanbul,Carnage,2,0,ENDED
+08/01/2023 19:15,Leverkusen,Lio,Roma,tommy,3,4,ENDED
+08/01/2023 19:00,Sevilla,val,Arsenal,Spex,1,3,ENDED
+08/01/2023 19:00,Leverkusen,Lio,Fenerbahce Istanbul,Carnage,2,4,ENDED
+08/01/2023 18:30,Sevilla,val,Leverkusen,Lio,0,2,ENDED
+08/01/2023 18:30,Roma,tommy,Fenerbahce Istanbul,Carnage,5,3,ENDED
+08/01/2023 18:15,Sevilla,val,Fenerbahce Istanbul,Carnage,1,2,ENDED
+08/01/2023 18:15,Roma,tommy,Arsenal,Spex,1,2,ENDED
+08/01/2023 18:00,Leverkusen,Lio,Arsenal,Spex,1,3,ENDED
+08/01/2023 18:00,Roma,tommy,Sevilla,val,4,2,ENDED
+08/01/2023 17:45,Fenerbahce Istanbul,Carnage,Arsenal,Spex,2,1,ENDED
+08/01/2023 17:45,Roma,tommy,Leverkusen,Lio,3,2,ENDED
+08/01/2023 17:30,Arsenal,Spex,Sevilla,val,0,1,ENDED
+08/01/2023 17:30,Fenerbahce Istanbul,Carnage,Leverkusen,Lio,3,4,ENDED
+08/01/2023 17:15,Tottenham,Lio,Manchester United,val,1,1,ENDED
+08/01/2023 17:15,Arsenal,Carnage,Newcastle Utd,tommy,2,1,ENDED
+08/01/2023 17:00,Arsenal,Carnage,Manchester United,val,1,2,ENDED
+08/01/2023 17:00,Manchester City,Spex,Newcastle Utd,tommy,2,1,ENDED
+08/01/2023 16:45,Manchester City,Spex,Tottenham,Lio,3,1,ENDED
+08/01/2023 16:45,Manchester United,val,Newcastle Utd,tommy,3,2,ENDED
+08/01/2023 16:30,Manchester City,Spex,Arsenal,Carnage,1,3,ENDED
+08/01/2023 16:30,Tottenham,Lio,Newcastle Utd,tommy,1,3,ENDED
+08/01/2023 16:15,Manchester United,val,Manchester City,Spex,1,2,ENDED
+08/01/2023 16:15,Tottenham,Lio,Arsenal,Carnage,2,1,ENDED
+08/01/2023 16:00,Manchester United,val,Tottenham,Lio,1,1,ENDED
+08/01/2023 16:00,Newcastle Utd,tommy,Arsenal,Carnage,2,3,ENDED
+08/01/2023 15:45,Manchester United,val,Arsenal,Carnage,1,1,ENDED
+08/01/2023 15:45,Newcastle Utd,tommy,Manchester City,Spex,3,3,ENDED
+08/01/2023 15:30,Tottenham,Lio,Manchester City,Spex,1,3,ENDED
+08/01/2023 15:30,Newcastle Utd,tommy,Manchester United,val,2,2,ENDED
+08/01/2023 15:15,Arsenal,Carnage,Manchester City,Spex,1,1,ENDED
+08/01/2023 15:15,Newcastle Utd,tommy,Tottenham,Lio,1,2,ENDED
+08/01/2023 15:00,Manchester City,Spex,Manchester United,val,3,1,ENDED
+08/01/2023 15:00,Arsenal,Carnage,Tottenham,Lio,1,0,ENDED
+08/01/2023 14:30,Leverkusen,Ray,Sevilla,Mars,1,4,ENDED
+08/01/2023 14:30,Fenerbahce Istanbul,Danny,Roma,Nio,0,0,ENDED
+08/01/2023 14:15,Fenerbahce Istanbul,Danny,Sevilla,Mars,4,4,ENDED
+08/01/2023 14:15,Arsenal,Nazario,Roma,Nio,0,2,ENDED
+08/01/2023 14:00,Arsenal,Nazario,Leverkusen,Ray,4,2,ENDED
+08/01/2023 14:00,Sevilla,Mars,Roma,Nio,2,1,ENDED
+08/01/2023 13:45,Arsenal,Nazario,Fenerbahce Istanbul,Danny,4,2,ENDED
+08/01/2023 13:45,Leverkusen,Ray,Roma,Nio,3,2,ENDED
+08/01/2023 13:30,Sevilla,Mars,Arsenal,Nazario,2,4,ENDED
+08/01/2023 13:30,Leverkusen,Ray,Fenerbahce Istanbul,Danny,2,3,ENDED
+08/01/2023 13:15,Sevilla,Mars,Leverkusen,Ray,4,4,ENDED
+08/01/2023 13:15,Roma,Nio,Fenerbahce Istanbul,Danny,5,3,ENDED
+08/01/2023 13:00,Sevilla,Mars,Fenerbahce Istanbul,Danny,2,1,ENDED
+08/01/2023 13:00,Roma,Nio,Arsenal,Nazario,3,1,ENDED
+08/01/2023 12:45,Leverkusen,Ray,Arsenal,Nazario,5,3,ENDED
+08/01/2023 12:45,Roma,Nio,Sevilla,Mars,3,1,ENDED
+08/01/2023 12:30,Fenerbahce Istanbul,Danny,Arsenal,Nazario,2,3,ENDED
+08/01/2023 12:30,Roma,Nio,Leverkusen,Ray,3,1,ENDED
+08/01/2023 12:15,Arsenal,Nazario,Sevilla,Mars,5,6,ENDED
+08/01/2023 12:15,Fenerbahce Istanbul,Danny,Leverkusen,Ray,0,2,ENDED
+08/01/2023 12:00,Athletic Bilbao,Ray,Atletico Madrid,Mars,4,1,ENDED
+08/01/2023 12:00,Real Madrid,Danny,Real Sociedad,Nio,4,3,ENDED
+08/01/2023 11:45,Real Madrid,Danny,Atletico Madrid,Mars,2,0,ENDED
+08/01/2023 11:45,FC Barcelona,Nazario,Real Sociedad,Nio,3,1,ENDED
+08/01/2023 11:30,FC Barcelona,Nazario,Athletic Bilbao,Ray,2,2,ENDED
+08/01/2023 11:30,Atletico Madrid,Mars,Real Sociedad,Nio,1,2,ENDED
+08/01/2023 11:15,FC Barcelona,Nazario,Real Madrid,Danny,2,4,ENDED
+08/01/2023 11:15,Athletic Bilbao,Ray,Real Sociedad,Nio,4,1,ENDED
+08/01/2023 11:00,Atletico Madrid,Mars,FC Barcelona,Nazario,2,3,ENDED
+08/01/2023 11:00,Athletic Bilbao,Ray,Real Madrid,Danny,2,1,ENDED
+08/01/2023 10:30,Atletico Madrid,Mars,Athletic Bilbao,Ray,2,0,ENDED
+08/01/2023 10:30,Real Sociedad,Nio,Real Madrid,Danny,1,3,ENDED
+08/01/2023 10:15,Atletico Madrid,Mars,Real Madrid,Danny,1,3,ENDED
+08/01/2023 10:15,Real Sociedad,Nio,FC Barcelona,Nazario,0,2,ENDED
+08/01/2023 10:00,Athletic Bilbao,Ray,FC Barcelona,Nazario,3,2,ENDED
+08/01/2023 10:00,Real Sociedad,Nio,Atletico Madrid,Mars,3,5,ENDED
+08/01/2023 09:45,Real Madrid,Danny,FC Barcelona,Nazario,2,3,ENDED
+08/01/2023 09:45,Real Sociedad,Nio,Athletic Bilbao,Ray,3,1,ENDED
+08/01/2023 09:30,FC Barcelona,Nazario,Atletico Madrid,Mars,2,3,ENDED
+08/01/2023 09:30,Real Madrid,Danny,Athletic Bilbao,Ray,3,2,ENDED
+08/01/2023 09:15,FC Porto,Ray,Tottenham,Mars,3,1,ENDED
+08/01/2023 09:15,Borussia Dortmund,Danny,Chelsea,Nio,2,2,ENDED
+08/01/2023 09:00,Borussia Dortmund,Danny,Tottenham,Mars,3,1,ENDED
+08/01/2023 09:00,SSC Napoli,Nazario,Chelsea,Nio,0,4,ENDED
+08/01/2023 08:45,SSC Napoli,Nazario,FC Porto,Ray,3,5,ENDED
+08/01/2023 08:45,Tottenham,Mars,Chelsea,Nio,2,2,ENDED
+08/01/2023 08:30,SSC Napoli,Nazario,Borussia Dortmund,Danny,3,3,ENDED
+08/01/2023 08:30,FC Porto,Ray,Chelsea,Nio,2,1,ENDED
+08/01/2023 08:15,Tottenham,Mars,SSC Napoli,Nazario,1,2,ENDED
+08/01/2023 08:15,FC Porto,Ray,Borussia Dortmund,Danny,2,2,ENDED
+08/01/2023 08:00,Tottenham,Mars,FC Porto,Ray,3,5,ENDED
+08/01/2023 08:00,Chelsea,Nio,Borussia Dortmund,Danny,3,1,ENDED
+08/01/2023 07:45,Tottenham,Mars,Borussia Dortmund,Danny,1,3,ENDED
+08/01/2023 07:45,Chelsea,Nio,SSC Napoli,Nazario,1,1,ENDED
+08/01/2023 07:30,FC Porto,Ray,SSC Napoli,Nazario,2,3,ENDED
+08/01/2023 07:30,Chelsea,Nio,Tottenham,Mars,1,0,ENDED
+08/01/2023 07:15,Borussia Dortmund,Danny,SSC Napoli,Nazario,2,1,ENDED
+08/01/2023 07:15,Chelsea,Nio,FC Porto,Ray,2,2,ENDED
+08/01/2023 07:00,SSC Napoli,Nazario,Tottenham,Mars,0,1,ENDED
+08/01/2023 07:00,Borussia Dortmund,Danny,FC Porto,Ray,2,1,ENDED
+08/01/2023 06:30,Ajax Amsterdam,Krouks,S.C Freiburg,JohnyBeGood,2,3,ENDED
+08/01/2023 06:30,FC Barcelona,billiot,Manchester United,Moic,1,1,ENDED
+08/01/2023 06:15,FC Barcelona,billiot,S.C Freiburg,JohnyBeGood,1,0,ENDED
+08/01/2023 06:15,Juventus Turin,Cliff,Manchester United,Moic,2,3,ENDED
+08/01/2023 06:00,Juventus Turin,Cliff,Ajax Amsterdam,Krouks,3,2,ENDED
+08/01/2023 06:00,S.C Freiburg,JohnyBeGood,Manchester United,Moic,3,1,ENDED
+08/01/2023 05:45,Juventus Turin,Cliff,FC Barcelona,billiot,0,0,ENDED
+08/01/2023 05:45,Ajax Amsterdam,Krouks,Manchester United,Moic,3,4,ENDED
+08/01/2023 05:30,S.C Freiburg,JohnyBeGood,Juventus Turin,Cliff,1,2,ENDED
+08/01/2023 05:30,Ajax Amsterdam,Krouks,FC Barcelona,billiot,5,5,ENDED
+08/01/2023 05:15,S.C Freiburg,JohnyBeGood,Ajax Amsterdam,Krouks,4,2,ENDED
+08/01/2023 05:15,Manchester United,Moic,FC Barcelona,billiot,1,3,ENDED
+08/01/2023 05:00,S.C Freiburg,JohnyBeGood,FC Barcelona,billiot,2,0,ENDED
+08/01/2023 05:00,Manchester United,Moic,Juventus Turin,Cliff,2,4,ENDED
+08/01/2023 04:45,Ajax Amsterdam,Krouks,Juventus Turin,Cliff,5,4,ENDED
+08/01/2023 04:45,Manchester United,Moic,S.C Freiburg,JohnyBeGood,2,4,ENDED
+08/01/2023 04:30,FC Barcelona,billiot,Juventus Turin,Cliff,4,2,ENDED
+08/01/2023 04:30,Manchester United,Moic,Ajax Amsterdam,Krouks,3,4,ENDED
+08/01/2023 04:15,Juventus Turin,Cliff,S.C Freiburg,JohnyBeGood,1,5,ENDED
+08/01/2023 04:15,FC Barcelona,billiot,Ajax Amsterdam,Krouks,4,2,ENDED
+08/01/2023 04:00,Tottenham,Krouks,Manchester United,JohnyBeGood,3,3,ENDED
+08/01/2023 04:00,Arsenal,billiot,Newcastle Utd,Moic,3,1,ENDED
+08/01/2023 03:45,Arsenal,billiot,Manchester United,JohnyBeGood,3,1,ENDED
+08/01/2023 03:45,Manchester City,Cliff,Newcastle Utd,Moic,4,4,ENDED
+08/01/2023 03:30,Manchester City,Cliff,Tottenham,Krouks,4,2,ENDED
+08/01/2023 03:30,Manchester United,JohnyBeGood,Newcastle Utd,Moic,5,5,ENDED
+08/01/2023 03:15,Manchester City,Cliff,Arsenal,billiot,0,0,ENDED
+08/01/2023 03:15,Tottenham,Krouks,Newcastle Utd,Moic,3,2,ENDED
+08/01/2023 03:00,Manchester United,JohnyBeGood,Manchester City,Cliff,1,2,ENDED
+08/01/2023 03:00,Tottenham,Krouks,Arsenal,billiot,7,3,ENDED
+08/01/2023 02:30,Manchester United,JohnyBeGood,Tottenham,Krouks,3,4,ENDED
+08/01/2023 02:30,Newcastle Utd,Moic,Arsenal,billiot,1,1,ENDED
+08/01/2023 02:15,Manchester United,JohnyBeGood,Arsenal,billiot,1,2,ENDED
+08/01/2023 02:15,Newcastle Utd,Moic,Manchester City,Cliff,3,1,ENDED
+08/01/2023 02:00,Tottenham,Krouks,Manchester City,Cliff,5,3,ENDED
+08/01/2023 02:00,Newcastle Utd,Moic,Manchester United,JohnyBeGood,3,5,ENDED
+08/01/2023 01:45,Arsenal,billiot,Manchester City,Cliff,1,1,ENDED
+08/01/2023 01:45,Newcastle Utd,Moic,Tottenham,Krouks,5,3,ENDED
+08/01/2023 01:30,Manchester City,Cliff,Manchester United,JohnyBeGood,0,2,ENDED
+08/01/2023 01:30,Arsenal,billiot,Tottenham,Krouks,4,0,ENDED
+08/01/2023 01:15,Eintracht Frankfurt,Krouks,AC Milan,JohnyBeGood,4,2,ENDED
+08/01/2023 01:15,Benfica Lisbon,billiot,Inter Milan,Moic,2,2,ENDED
+08/01/2023 01:00,Benfica Lisbon,billiot,AC Milan,JohnyBeGood,0,0,ENDED
+08/01/2023 01:00,Leipzig,Cliff,Inter Milan,Moic,2,2,ENDED
+08/01/2023 00:45,Leipzig,Cliff,Eintracht Frankfurt,Krouks,2,2,ENDED
+08/01/2023 00:45,AC Milan,JohnyBeGood,Inter Milan,Moic,2,3,ENDED
+08/01/2023 00:30,Leipzig,Cliff,Benfica Lisbon,billiot,1,0,ENDED
+08/01/2023 00:30,Eintracht Frankfurt,Krouks,Inter Milan,Moic,2,2,ENDED
+08/01/2023 00:15,AC Milan,JohnyBeGood,Leipzig,Cliff,0,2,ENDED
+08/01/2023 00:15,Eintracht Frankfurt,Krouks,Benfica Lisbon,billiot,5,3,ENDED
+08/01/2023 00:00,AC Milan,JohnyBeGood,Eintracht Frankfurt,Krouks,3,1,ENDED
+08/01/2023 00:00,Inter Milan,Moic,Benfica Lisbon,billiot,1,1,ENDED

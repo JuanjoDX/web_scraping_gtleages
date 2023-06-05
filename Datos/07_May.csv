@@ -1,0 +1,181 @@
+﻿Fecha,Equipo Local,Jugador Local,Equipo Vista,Jugador Visita,Resultado Local,Resultado Visita,Estado
+07/05/2023 23:45,Fenerbahce Istanbul,Cantona,Leverkusen,Mars,0,2,ENDED
+07/05/2023 23:45,Sevilla,Danny,Juventus Turin,Nazario,4,5,ENDED
+07/05/2023 23:30,Fenerbahce Istanbul,Cantona,Manchester United,Cliff,3,2,ENDED
+07/05/2023 23:30,Leverkusen,Mars,Juventus Turin,Nazario,1,0,ENDED
+07/05/2023 23:15,Sevilla,Danny,Fenerbahce Istanbul,Cantona,2,4,ENDED
+07/05/2023 23:15,Leverkusen,Mars,Manchester United,Cliff,0,1,ENDED
+07/05/2023 23:00,Sevilla,Danny,Leverkusen,Mars,4,6,ENDED
+07/05/2023 23:00,Juventus Turin,Nazario,Manchester United,Cliff,5,2,ENDED
+07/05/2023 22:45,Sevilla,Danny,Manchester United,Cliff,1,3,ENDED
+07/05/2023 22:45,Juventus Turin,Nazario,Fenerbahce Istanbul,Cantona,3,1,ENDED
+07/05/2023 22:30,Leverkusen,Mars,Fenerbahce Istanbul,Cantona,4,1,ENDED
+07/05/2023 22:30,Juventus Turin,Nazario,Sevilla,Danny,3,4,ENDED
+07/05/2023 22:15,Manchester United,Cliff,Fenerbahce Istanbul,Cantona,1,2,ENDED
+07/05/2023 22:15,Juventus Turin,Nazario,Leverkusen,Mars,3,5,ENDED
+07/05/2023 22:00,Fenerbahce Istanbul,Cantona,Sevilla,Danny,3,2,ENDED
+07/05/2023 22:00,Manchester United,Cliff,Leverkusen,Mars,2,3,ENDED
+07/05/2023 21:30,Leverkusen,Carnage,Sevilla,Spex,1,1,ENDED
+07/05/2023 21:30,Manchester United,val,Juventus Turin,tommy,0,0,ENDED
+07/05/2023 21:15,Manchester United,val,Sevilla,Spex,2,0,ENDED
+07/05/2023 21:15,Fenerbahce Istanbul,Lio,Juventus Turin,tommy,5,3,ENDED
+07/05/2023 21:00,Fenerbahce Istanbul,Lio,Leverkusen,Carnage,3,2,ENDED
+07/05/2023 21:00,Sevilla,Spex,Juventus Turin,tommy,3,2,ENDED
+07/05/2023 20:45,Fenerbahce Istanbul,Lio,Manchester United,val,2,0,ENDED
+07/05/2023 20:45,Leverkusen,Carnage,Juventus Turin,tommy,3,3,ENDED
+07/05/2023 20:30,Sevilla,Spex,Fenerbahce Istanbul,Lio,2,2,ENDED
+07/05/2023 20:30,Leverkusen,Carnage,Manchester United,val,2,2,ENDED
+07/05/2023 20:15,Sevilla,Spex,Leverkusen,Carnage,2,2,ENDED
+07/05/2023 20:15,Juventus Turin,tommy,Manchester United,val,3,4,ENDED
+07/05/2023 20:00,Sevilla,Spex,Manchester United,val,0,0,ENDED
+07/05/2023 20:00,Juventus Turin,tommy,Fenerbahce Istanbul,Lio,3,2,ENDED
+07/05/2023 19:45,Leverkusen,Carnage,Fenerbahce Istanbul,Lio,1,1,ENDED
+07/05/2023 19:45,Juventus Turin,tommy,Sevilla,Spex,1,3,ENDED
+07/05/2023 19:30,Manchester United,val,Fenerbahce Istanbul,Lio,1,3,ENDED
+07/05/2023 19:30,Juventus Turin,tommy,Leverkusen,Carnage,2,2,ENDED
+07/05/2023 19:15,Fenerbahce Istanbul,Lio,Sevilla,Spex,2,1,ENDED
+07/05/2023 19:15,Manchester United,val,Leverkusen,Carnage,3,4,ENDED
+07/05/2023 19:00,Real Betis,Carnage,Real Sociedad,Spex,4,3,ENDED
+07/05/2023 19:00,Atletico Madrid,val,FC Barcelona,tommy,4,4,ENDED
+07/05/2023 18:45,Atletico Madrid,val,Real Sociedad,Spex,1,3,ENDED
+07/05/2023 18:45,Real Madrid,Lio,FC Barcelona,tommy,2,0,ENDED
+07/05/2023 18:30,Real Madrid,Lio,Real Betis,Carnage,1,3,ENDED
+07/05/2023 18:30,Real Sociedad,Spex,FC Barcelona,tommy,4,0,ENDED
+07/05/2023 18:15,Real Madrid,Lio,Atletico Madrid,val,3,1,ENDED
+07/05/2023 18:15,Real Betis,Carnage,FC Barcelona,tommy,3,5,ENDED
+07/05/2023 18:00,Real Sociedad,Spex,Real Madrid,Lio,1,4,ENDED
+07/05/2023 18:00,Real Betis,Carnage,Atletico Madrid,val,2,4,ENDED
+07/05/2023 17:30,Real Sociedad,Spex,Real Betis,Carnage,3,2,ENDED
+07/05/2023 17:30,FC Barcelona,tommy,Atletico Madrid,val,5,2,ENDED
+07/05/2023 17:15,Real Sociedad,Spex,Atletico Madrid,val,2,2,ENDED
+07/05/2023 17:15,FC Barcelona,tommy,Real Madrid,Lio,2,1,ENDED
+07/05/2023 17:00,Real Betis,Carnage,Real Madrid,Lio,1,3,ENDED
+07/05/2023 17:00,FC Barcelona,tommy,Real Sociedad,Spex,1,2,ENDED
+07/05/2023 16:45,Atletico Madrid,val,Real Madrid,Lio,1,3,ENDED
+07/05/2023 16:45,FC Barcelona,tommy,Real Betis,Carnage,3,3,ENDED
+07/05/2023 16:30,Real Madrid,Lio,Real Sociedad,Spex,1,2,ENDED
+07/05/2023 16:30,Atletico Madrid,val,Real Betis,Carnage,2,3,ENDED
+07/05/2023 16:15,AC Milan,Carnage,Manchester City,Spex,0,0,ENDED
+07/05/2023 16:15,Real Madrid,val,Inter Milan,tommy,1,4,ENDED
+07/05/2023 16:00,Real Madrid,val,Manchester City,Spex,0,0,ENDED
+07/05/2023 16:00,Bayern München,Lio,Inter Milan,tommy,4,3,ENDED
+07/05/2023 15:45,Bayern München,Lio,AC Milan,Carnage,1,3,ENDED
+07/05/2023 15:45,Manchester City,Spex,Inter Milan,tommy,3,1,ENDED
+07/05/2023 15:30,Bayern München,Lio,Real Madrid,val,2,4,ENDED
+07/05/2023 15:30,AC Milan,Carnage,Inter Milan,tommy,2,3,ENDED
+07/05/2023 15:15,Manchester City,Spex,Bayern München,Lio,5,2,ENDED
+07/05/2023 15:15,AC Milan,Carnage,Real Madrid,val,4,2,ENDED
+07/05/2023 15:00,Manchester City,Spex,AC Milan,Carnage,4,3,ENDED
+07/05/2023 15:00,Inter Milan,tommy,Real Madrid,val,2,3,ENDED
+07/05/2023 14:45,Manchester City,Spex,Real Madrid,val,2,1,ENDED
+07/05/2023 14:45,Inter Milan,tommy,Bayern München,Lio,2,3,ENDED
+07/05/2023 14:30,AC Milan,Carnage,Bayern München,Lio,3,1,ENDED
+07/05/2023 14:30,Inter Milan,tommy,Manchester City,Spex,2,3,ENDED
+07/05/2023 14:15,Real Madrid,val,Bayern München,Lio,2,4,ENDED
+07/05/2023 14:15,Inter Milan,tommy,AC Milan,Carnage,3,4,ENDED
+07/05/2023 14:00,Bayern München,Lio,Manchester City,Spex,2,4,ENDED
+07/05/2023 14:00,Real Madrid,val,AC Milan,Carnage,4,1,ENDED
+07/05/2023 13:30,Juventus Turin,Gorilla,Lazio,General,4,2,ENDED
+07/05/2023 13:30,Roma,Votepeace,AC Milan,Pipis,3,1,ENDED
+07/05/2023 13:15,Roma,Votepeace,Lazio,General,2,5,ENDED
+07/05/2023 13:15,SSC Napoli,Spencer,AC Milan,Pipis,2,5,ENDED
+07/05/2023 13:00,SSC Napoli,Spencer,Juventus Turin,Gorilla,1,3,ENDED
+07/05/2023 13:00,Lazio,General,AC Milan,Pipis,3,2,ENDED
+07/05/2023 12:45,SSC Napoli,Spencer,Roma,Votepeace,3,5,ENDED
+07/05/2023 12:45,Juventus Turin,Gorilla,AC Milan,Pipis,4,6,ENDED
+07/05/2023 12:30,Lazio,General,SSC Napoli,Spencer,2,2,ENDED
+07/05/2023 12:30,Juventus Turin,Gorilla,Roma,Votepeace,3,2,ENDED
+07/05/2023 12:15,Lazio,General,Juventus Turin,Gorilla,2,4,ENDED
+07/05/2023 12:15,AC Milan,Pipis,Roma,Votepeace,2,1,ENDED
+07/05/2023 12:00,Lazio,General,Roma,Votepeace,5,5,ENDED
+07/05/2023 12:00,AC Milan,Pipis,SSC Napoli,Spencer,4,6,ENDED
+07/05/2023 11:45,Juventus Turin,Gorilla,SSC Napoli,Spencer,4,5,ENDED
+07/05/2023 11:45,AC Milan,Pipis,Lazio,General,4,3,ENDED
+07/05/2023 11:30,Roma,Votepeace,SSC Napoli,Spencer,1,4,ENDED
+07/05/2023 11:30,AC Milan,Pipis,Juventus Turin,Gorilla,5,3,ENDED
+07/05/2023 11:15,SSC Napoli,Spencer,Lazio,General,2,6,ENDED
+07/05/2023 11:15,Roma,Votepeace,Juventus Turin,Gorilla,6,4,ENDED
+07/05/2023 11:00,OGC Nice,Gorilla,AZ,General,1,2,ENDED
+07/05/2023 11:00,Fiorentina,Votepeace,Basel,Pipis,4,2,ENDED
+07/05/2023 10:45,Fiorentina,Votepeace,AZ,General,2,6,ENDED
+07/05/2023 10:45,West Ham,Spencer,Basel,Pipis,2,2,ENDED
+07/05/2023 10:30,West Ham,Spencer,OGC Nice,Gorilla,2,3,ENDED
+07/05/2023 10:30,AZ,General,Basel,Pipis,5,2,ENDED
+07/05/2023 10:15,West Ham,Spencer,Fiorentina,Votepeace,1,3,ENDED
+07/05/2023 10:15,OGC Nice,Gorilla,Basel,Pipis,5,3,ENDED
+07/05/2023 10:00,AZ,General,West Ham,Spencer,2,3,ENDED
+07/05/2023 10:00,OGC Nice,Gorilla,Fiorentina,Votepeace,0,3,ENDED
+07/05/2023 09:30,AZ,General,OGC Nice,Gorilla,3,6,ENDED
+07/05/2023 09:30,Basel,Pipis,Fiorentina,Votepeace,3,2,ENDED
+07/05/2023 09:15,AZ,General,Fiorentina,Votepeace,2,1,ENDED
+07/05/2023 09:15,Basel,Pipis,West Ham,Spencer,2,3,ENDED
+07/05/2023 09:00,OGC Nice,Gorilla,West Ham,Spencer,3,3,ENDED
+07/05/2023 09:00,Basel,Pipis,AZ,General,2,3,ENDED
+07/05/2023 08:45,Fiorentina,Votepeace,West Ham,Spencer,3,0,ENDED
+07/05/2023 08:45,Basel,Pipis,OGC Nice,Gorilla,1,5,ENDED
+07/05/2023 08:30,West Ham,Spencer,AZ,General,3,4,ENDED
+07/05/2023 08:30,Fiorentina,Votepeace,OGC Nice,Gorilla,4,6,ENDED
+07/05/2023 08:15,Manchester City,Gorilla,Tottenham,General,7,2,ENDED
+07/05/2023 08:15,Newcastle Utd,Votepeace,Arsenal,Pipis,6,4,ENDED
+07/05/2023 08:00,Newcastle Utd,Votepeace,Tottenham,General,4,3,ENDED
+07/05/2023 08:00,Manchester United,Spencer,Arsenal,Pipis,3,2,ENDED
+07/05/2023 07:45,Manchester United,Spencer,Manchester City,Gorilla,2,0,ENDED
+07/05/2023 07:45,Tottenham,General,Arsenal,Pipis,5,7,ENDED
+07/05/2023 07:30,Manchester United,Spencer,Newcastle Utd,Votepeace,3,1,ENDED
+07/05/2023 07:30,Manchester City,Gorilla,Arsenal,Pipis,3,2,ENDED
+07/05/2023 07:15,Tottenham,General,Manchester United,Spencer,1,4,ENDED
+07/05/2023 07:15,Manchester City,Gorilla,Newcastle Utd,Votepeace,4,4,ENDED
+07/05/2023 07:00,Tottenham,General,Manchester City,Gorilla,4,4,ENDED
+07/05/2023 07:00,Arsenal,Pipis,Newcastle Utd,Votepeace,3,2,ENDED
+07/05/2023 06:45,Tottenham,General,Newcastle Utd,Votepeace,1,1,ENDED
+07/05/2023 06:45,Arsenal,Pipis,Manchester United,Spencer,1,3,ENDED
+07/05/2023 06:30,Manchester City,Gorilla,Manchester United,Spencer,2,3,ENDED
+07/05/2023 06:30,Arsenal,Pipis,Tottenham,General,3,3,ENDED
+07/05/2023 06:15,Newcastle Utd,Votepeace,Manchester United,Spencer,2,3,ENDED
+07/05/2023 06:15,Arsenal,Pipis,Manchester City,Gorilla,2,4,ENDED
+07/05/2023 06:00,Manchester United,Spencer,Tottenham,General,2,3,ENDED
+07/05/2023 06:00,Newcastle Utd,Votepeace,Manchester City,Gorilla,1,3,ENDED
+07/05/2023 05:30,Real Betis,Rocky,Real Sociedad,Mars,1,1,ENDED
+07/05/2023 05:30,Atletico Madrid,Nasmi,FC Barcelona,Pontiac,3,6,ENDED
+07/05/2023 05:15,Atletico Madrid,Nasmi,Real Sociedad,Mars,1,4,ENDED
+07/05/2023 05:15,Real Madrid,Seagal,FC Barcelona,Pontiac,5,7,ENDED
+07/05/2023 05:00,Real Madrid,Seagal,Real Betis,Rocky,2,0,ENDED
+07/05/2023 05:00,Real Sociedad,Mars,FC Barcelona,Pontiac,4,4,ENDED
+07/05/2023 04:45,Real Madrid,Seagal,Atletico Madrid,Nasmi,5,5,ENDED
+07/05/2023 04:45,Real Betis,Rocky,FC Barcelona,Pontiac,3,2,ENDED
+07/05/2023 04:30,Real Sociedad,Mars,Real Madrid,Seagal,3,0,ENDED
+07/05/2023 04:30,Real Betis,Rocky,Atletico Madrid,Nasmi,1,2,ENDED
+07/05/2023 04:15,Real Sociedad,Mars,Real Betis,Rocky,2,2,ENDED
+07/05/2023 04:15,FC Barcelona,Pontiac,Atletico Madrid,Nasmi,5,5,ENDED
+07/05/2023 04:00,Real Sociedad,Mars,Atletico Madrid,Nasmi,4,1,ENDED
+07/05/2023 04:00,FC Barcelona,Pontiac,Real Madrid,Seagal,2,3,ENDED
+07/05/2023 03:45,Real Betis,Rocky,Real Madrid,Seagal,5,2,ENDED
+07/05/2023 03:45,FC Barcelona,Pontiac,Real Sociedad,Mars,3,5,ENDED
+07/05/2023 03:30,Atletico Madrid,Nasmi,Real Madrid,Seagal,3,3,ENDED
+07/05/2023 03:30,FC Barcelona,Pontiac,Real Betis,Rocky,4,2,ENDED
+07/05/2023 03:15,Real Madrid,Seagal,Real Sociedad,Mars,1,3,ENDED
+07/05/2023 03:15,Atletico Madrid,Nasmi,Real Betis,Rocky,4,1,ENDED
+07/05/2023 03:00,AC Milan,Rocky,Manchester City,Mars,4,1,ENDED
+07/05/2023 03:00,Real Madrid,Nasmi,Inter Milan,Pontiac,1,3,ENDED
+07/05/2023 02:45,Real Madrid,Nasmi,Manchester City,Mars,1,5,ENDED
+07/05/2023 02:45,Bayern München,Seagal,Inter Milan,Pontiac,1,0,ENDED
+07/05/2023 02:30,Bayern München,Seagal,AC Milan,Rocky,3,0,ENDED
+07/05/2023 02:30,Manchester City,Mars,Inter Milan,Pontiac,2,0,ENDED
+07/05/2023 02:15,Bayern München,Seagal,Real Madrid,Nasmi,0,4,ENDED
+07/05/2023 02:15,AC Milan,Rocky,Inter Milan,Pontiac,2,6,ENDED
+07/05/2023 02:00,Manchester City,Mars,Bayern München,Seagal,6,3,ENDED
+07/05/2023 02:00,AC Milan,Rocky,Real Madrid,Nasmi,1,3,ENDED
+07/05/2023 01:30,Manchester City,Mars,AC Milan,Rocky,3,2,ENDED
+07/05/2023 01:30,Inter Milan,Pontiac,Real Madrid,Nasmi,3,3,ENDED
+07/05/2023 01:15,Manchester City,Mars,Real Madrid,Nasmi,4,3,ENDED
+07/05/2023 01:15,Inter Milan,Pontiac,Bayern München,Seagal,2,4,ENDED
+07/05/2023 01:00,AC Milan,Rocky,Bayern München,Seagal,2,2,ENDED
+07/05/2023 01:00,Inter Milan,Pontiac,Manchester City,Mars,3,3,ENDED
+07/05/2023 00:45,Real Madrid,Nasmi,Bayern München,Seagal,1,4,ENDED
+07/05/2023 00:45,Inter Milan,Pontiac,AC Milan,Rocky,4,1,ENDED
+07/05/2023 00:30,Bayern München,Seagal,Manchester City,Mars,2,4,ENDED
+07/05/2023 00:30,Real Madrid,Nasmi,AC Milan,Rocky,3,8,ENDED
+07/05/2023 00:15,Leverkusen,Rocky,Sevilla,Mars,3,0,ENDED
+07/05/2023 00:15,Manchester United,Nasmi,Juventus Turin,Pontiac,0,4,ENDED
+07/05/2023 00:00,Manchester United,Nasmi,Sevilla,Mars,5,4,ENDED
+07/05/2023 00:00,Fenerbahce Istanbul,Seagal,Juventus Turin,Pontiac,7,7,ENDED
