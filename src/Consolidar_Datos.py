@@ -1,6 +1,8 @@
+## El siguiente codigo consolidado los archivos contenidos dentro de la carpeta Datos y los unifica en 1 solo archivos ademas agrega una columna nueva
+## con el nombre del ganador o "X" en caso de empate
+
 import pandas as pd 
 import os
-import matplotlib.pyplot as plt
 
 lista_archivos = os.listdir("../Datos/")
 
